@@ -65,3 +65,7 @@ while the goal of the linear algebra approach is to handle the data using matric
 | [WebACE](https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Datasets/WebACE..mat) |2340  |1000  | 91.83% |20  |
 | [Classic3](https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Datasets/classic3.mat) |3891  |4303  |98%  |3  |
 
+## Models
+```python
+from ..Models.ELBMcem import 
+```
