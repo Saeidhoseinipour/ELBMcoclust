@@ -86,9 +86,21 @@ Process_Ev = Process_EV(true_labels ,X_CSTR, ELBM)
 from sklearn.metrics import confusion_matrix 
 
 confusion_matrix(true_labels, np.sort(ELBM.row_labels_))
-```
+
+
 array([[101,   0,   0,   0],
        [ 25,  46,   0,   0],
        [  0,   0,  68, 110],
        [  0,   0,   0, 125]], dtype=int64)
+```
 
+
+## Visualization
+
+```python
+from ELBMcoclust.Visualization.All_VS import All_Visualization
+
+VS = All_Visualization(do_plot=True, save=True, dpi = 200)
+a = 'Boxplot_Classic3_Final'
+VS.boxplot_ELBM_SELBM('Classic3', a)
+```
