@@ -65,7 +65,7 @@ while the goal of the linear algebra approach is to handle the data using matric
 | [WebACE](https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Datasets/WebACE..mat) |2340  |1000  | 91.83% |20  |
 | [Classic3](https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Datasets/classic3.mat) |3891  |4303  |98%  |3  |
 
-## Model
+## [Models](https://github.com/Saeidhoseinipour/ELBMcoclust/tree/main/Models)
 ```python
 from ELBMcoclust.Models.coclust_ELBMcem import CoclustELBMcem
 from ELBMcoclust.Models.coclust_SELBMcem import CoclustSELBMcem
@@ -80,3 +80,5 @@ SELBM = CoclustSELBMcem(n_row_clusters = 3, n_col_clusters = 3, model = "Poisson
 SELBM.fit(X_tfidf)
 
 Process_Ev = Process_EV(true_labels ,X_Classic3, ELBM) 
+
+
