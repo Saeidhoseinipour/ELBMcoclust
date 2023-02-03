@@ -124,5 +124,5 @@ Please cite the following paper in your publication if you are using [ELBMcoclus
 ```
 ## References
 
-[1] [Ailem, Melissa et al, Sparse Poisson latent block model for document clustering, IEEE Transactions on Knowledge and Data Engineering (2017).](https://github.com/Saeidhoseinipour/parsbert) 
+[1] [Ailem, Melissa et al, Sparse Poisson latent block model for document clustering, IEEE Transactions on Knowledge and Data Engineering (2017).](https://ieeexplore.ieee.org/abstract/document/7876732) 
 
