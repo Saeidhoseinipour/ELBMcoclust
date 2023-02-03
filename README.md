@@ -104,3 +104,6 @@ VS = All_Visualization(do_plot=True, save=True, dpi = 200)
 a = 'Boxplot_Classic3_Final'
 VS.boxplot_ELBM_SELBM('Classic3', a)
 ```
+
+![](https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/CSTR-1.png?raw=true)
+![](https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/Classic3-1.png?raw=true)
