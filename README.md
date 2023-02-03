@@ -105,8 +105,7 @@ a = 'Boxplot_Classic3_Final'
 VS.boxplot_ELBM_SELBM('Classic3', a)
 ```
 
-![](https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/CSTR-1.png?raw=true)
-![](https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/Classic3-1.png?raw=true, width="45%")
+<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/CSTR-1.png?raw=true" width="45%">
 
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/Classic3-1.png?raw=true" width="45%">
 
@@ -115,8 +114,8 @@ VS.boxplot_ELBM_SELBM('Classic3', a)
 Please cite the following paper in your publication if you are using [ELBMcoclust]() in your research:
 
 ```bibtex
- @article{Persianmining, 
-    title={Textual summarization of persian corpus by co-clustering algorithms.}, 
+ @article{ELBMcoclust, 
+    title={Sparse Expoential family latent block model for co-clustering}, 
     DOI={Preprint}, 
     journal={Stat (preprint)}, 
     author={Saeid Hoseinipour, Mina Aminghafari, Adel Mohammadpour}, 
@@ -125,8 +124,5 @@ Please cite the following paper in your publication if you are using [ELBMcoclus
 ```
 ## References
 
-[1] [Mehrdad Farahani et al, Parsbert: Transformer-based model for Persian language understanding, Neural Processing Letters (2021).](https://github.com/Saeidhoseinipour/parsbert) 
+[1] [Ailem, Melissa et al, Sparse Poisson latent block model for document clustering, IEEE Transactions on Knowledge and Data Engineering (2017).](https://github.com/Saeidhoseinipour/parsbert) 
 
-[2] Saeid et al, Orthogonal parametric matrix tri-factorization with $\alpha$-divergence for co-clustering (2023), Information Proccessing and Managment.
-
-[3] Saeid et al, Sparse Expoential family latent block model for co-clustering (2023), Stat.
