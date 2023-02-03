@@ -106,4 +106,26 @@ VS.boxplot_ELBM_SELBM('Classic3', a)
 ```
 
 ![](https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/CSTR-1.png?raw=true)
-![](https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/Classic3-1.png?raw=true)
+![](https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/Classic3-1.png?raw=true, width="45%")
+
+
+
+## Cite
+Please cite the following paper in your publication if you are using [ELBMcoclust]() in your research:
+
+```bibtex
+ @article{Persianmining, 
+    title={Textual summarization of persian corpus by co-clustering algorithms.}, 
+    DOI={Preprint}, 
+    journal={Stat (preprint)}, 
+    author={Saeid Hoseinipour, Mina Aminghafari, Adel Mohammadpour}, 
+    year={2023}
+} 
+```
+## References
+
+[1] [Mehrdad Farahani et al, Parsbert: Transformer-based model for Persian language understanding, Neural Processing Letters (2021).](https://github.com/Saeidhoseinipour/parsbert) 
+
+[2] Saeid et al, Orthogonal parametric matrix tri-factorization with $\alpha$-divergence for co-clustering (2023), Information Proccessing and Managment.
+
+[3] Saeid et al, Sparse Expoential family latent block model for co-clustering (2023), Stat.
