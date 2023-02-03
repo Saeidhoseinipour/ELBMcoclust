@@ -10,4 +10,21 @@ while the goal of the linear algebra approach is to handle the data using matric
 		\sum\limits_{i,j,k,h} r_{ik}\log \varphi(x_{ij};\alpha_{kh})c^{\top}_{hj}
 ```
 -  **ELBM**
+```math
+	L^{ELBM}(\mathbf{r},\mathbf{c},\boldsymbol{\gamma})	\propto 
+	\sum\limits_{k}
+	r_{.k} \log\pi_{k} +	
+	\sum\limits_{h}
+	\log\rho_{h} c^{\top}_{h.} +
+	Tr\left(
+	(\mathbf{R}^{\top} (\mathbf{S_{x}}\odot \hat{\boldsymbol{\beta}}) \mathbf{C})^{\top}
+	\mathbf{A}_{\boldsymbol{\alpha}}
+	\right)
+	- 
+	Tr\left(
+	(\mathbf{R}^{\top} (\mathbf{E}_{mn}\odot
+	\hat{\boldsymbol{\beta}}) \mathbf{C})^{\top}
+	\mathbf{F}_{\boldsymbol{\alpha}}
+	\right)
+```
 -  **SELBM**
