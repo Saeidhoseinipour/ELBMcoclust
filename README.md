@@ -73,12 +73,22 @@ from ELBMcoclust.Models.coclust_SELBMcem import CoclustSELBMcem
 ```python
 from NMTFcoclust.Evaluation.EV import Process_EV
 
-ELBM = CoclustELBMcem(n_row_clusters = 3, n_col_clusters = 3, model = "Poisson", max_iter=1)
-ELBM.fit(X_tfidf)
+ELBM = CoclustELBMcem(n_row_clusters = 4, n_col_clusters = 4, model = "Poisson", max_iter=1)
+ELBM.fit(X_CSTR)
 
-SELBM = CoclustSELBMcem(n_row_clusters = 3, n_col_clusters = 3, model = "Poisson", max_iter=1)
-SELBM.fit(X_tfidf)
+SELBM = CoclustSELBMcem(n_row_clusters = 4, n_col_clusters = 4, model = "Poisson", max_iter=1)
+SELBM.fit(X_CSTR)
 
-Process_Ev = Process_EV(true_labels ,X_Classic3, ELBM) 
+Process_Ev = Process_EV(true_labels ,X_CSTR, ELBM) 
+```
 
+```python
+from sklearn.metrics import confusion_matrix 
+
+confusion_matrix(true_labels, np.sort(ELBM.row_labels_))
+```
+array([[101,   0,   0,   0],
+       [ 25,  46,   0,   0],
+       [  0,   0,  68, 110],
+       [  0,   0,   0, 125]], dtype=int64)
 
