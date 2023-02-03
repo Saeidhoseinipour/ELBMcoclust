@@ -28,3 +28,29 @@ while the goal of the linear algebra approach is to handle the data using matric
 	\right)
 ```
 -  **SELBM**
+```math
+\begin{align}
+	L^{SELBM}(\boldsymbol{r},\boldsymbol{c},\boldsymbol{\gamma})
+	\propto&
+	\sum\limits_{k} r_{.k} \log\pi_{k} +	
+	\sum\limits_{h}  c_{.h}\log\rho_{h} \nonumber\\
+	&+
+	\sum\limits_{k} 
+	\left[
+	\mathbf{R}^{\top}(\mathbf{S}\odot \hat{\boldsymbol{\beta}})\mathbf{C}	
+	\right]_{kk}
+	\left(
+	A(\alpha_{kk}) - A(\alpha)
+	\right)\nonumber\\
+	&+
+	N A(\alpha)\nonumber\\
+	&-  
+	\sum\limits_{k}  
+	[\mathbf{R}^{\top}	(\mathbf{E}_{mn} \odot \hat{\boldsymbol{\beta}} )\mathbf{C}]_{kk} 
+	\left(
+	F(A(\alpha_{kk})) -F(A(\alpha)) 
+	\right) \nonumber\\
+	&- 
+	B F(A(\alpha)) 
+\end{align}
+```
