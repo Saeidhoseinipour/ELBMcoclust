@@ -29,7 +29,7 @@ while the goal of the linear algebra approach is to handle the data using matric
 ```
 -  **SELBM**
 ```math
-\begin{align}
+\begin{align*}
 	L^{SELBM}(\boldsymbol{r},\boldsymbol{c},\boldsymbol{\gamma})
 	\propto&
 	\sum\limits_{k} r_{.k} \log\pi_{k} +	
@@ -52,5 +52,22 @@ while the goal of the linear algebra approach is to handle the data using matric
 	\right) \nonumber\\
 	&- 
 	B F(A(\alpha)) 
-\end{align}
+\end{align*}
 ```
+
+\begin{center}
+	\begin{table}[H]
+			\caption{Table of 
+			the elements of complete log-likelihood for two case sparse.}\label{tab:EF}
+		\centering
+	\begin{tabular*}{300pt}{@{\extracolsep\fill}cccccc@{\extracolsep\fill}}%
+		\toprule
+	 \textbf{Distribution} & $\mathbf{S_{x}}$ & $\mathbf{A}_{\boldsymbol{\alpha}}$&$\mathbf{F}_{\boldsymbol{\alpha}}$ &$\hat{\boldsymbol{\beta}}$ &\textbf{$\varphi(x_{ij};\alpha_{kh}) $}\\
+		\midrule
+		N($\alpha_{kh},\sigma^{2}$)\tnote{*}& $\mathbf{X}$ &$\dfrac{1}{2\sigma^{2}} \bm{\alpha}$&$\dfrac{1}{2\sigma^{2}} \bm{\alpha}^{2}$&$\mathbf{E}_{mn}$&$\frac{1}{\sqrt{2 \pi \sigma^{2}}}  e^{-\frac{1}{2 \sigma^{2}}\left(x_{i j}-\alpha_{kh}\right)^{2}}$\\
+        Ber($\alpha_{kh}$)	& $\mathbf{X}$ &$ \log_{\frac{\bm{\alpha}}{\mathbf{E}_{gs} - \bm{\alpha}}}$&$-\log_{\mathbf{E}_{gs} - \bm{\alpha}}$&$\mathbf{E}_{mn}$&$\left(\alpha_{kh}\right)^{x_{i j}}\left(1-\alpha_{kh}\right)^{1-x_{i j}}$\\
+         Poisson($\beta_{ij}\alpha_{kh}$) &$\mathbf{X}$&$\log_{\bm{\alpha}}$&$\bm{\alpha}$&$\mathbf{X}\mathbf{E}_{mn}^{\top}\mathbf{X}$&$\frac{ \left(\beta_{ij}\alpha_{kh}\right)^{x_{i j}}}{x_{ij}!}e^{\left(-\beta_{ij} \alpha_{kh}\right)}$\\
+		\bottomrule
+	\end{tabular*}
+	\end{table}
+\end{center}
