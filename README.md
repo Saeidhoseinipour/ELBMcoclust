@@ -131,5 +131,5 @@ Please cite the following paper in your publication if you are using [ELBMcoclus
 
 [3] [Rodolphe Priam et al, Topographic Bernoulli block mixture mapping for binary tables, Pattern Analysis and Applications (2014).](https://link.springer.com/article/10.1007/s10044-014-0368-8)
 
-[] [Ailem, Melissa et al, Sparse Poisson latent block model for document clustering, IEEE Transactions on Knowledge and Data Engineering (2017).](https://ieeexplore.ieee.org/abstract/document/7876732) 
+[4] [Ailem, Melissa et al, Sparse Poisson latent block model for document clustering, IEEE Transactions on Knowledge and Data Engineering (2017).](https://ieeexplore.ieee.org/abstract/document/7876732) 
 
