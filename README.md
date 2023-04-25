@@ -48,9 +48,7 @@ while the goal of the linear algebra approach is to handle the data using matric
 	\left(
 	F(A(\alpha_{kk})) -F(A(\alpha)) 
 	\right)
-	+
-	N A(\alpha)- 
-	B F(A(\alpha)) 
+	+N A(\alpha)- B F(A(\alpha)) 
 \end{align*}
 ```
 
