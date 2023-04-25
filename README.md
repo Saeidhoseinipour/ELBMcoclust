@@ -1,5 +1,5 @@
-# ELBMcoclust
-Exponential Family Latent Block Model for Co-clustering
+# ELBMcoclust and SELBMcoclust
+Sparse and Non-Sparse Exponential Family Latent Block Model for Co-clustering
 
 The goal of the statistical approach is to analyze the behavior of the data by considering the probability distribution, 
 while the goal of the linear algebra approach is to handle the data using matrices and tensors.
@@ -33,8 +33,8 @@ while the goal of the linear algebra approach is to handle the data using matric
 	L^{SELBM}(\boldsymbol{r},\boldsymbol{c},\boldsymbol{\gamma})
 	\propto&
 	\sum\limits_{k} r_{.k} \log\pi_{k} +	
-	\sum\limits_{h}  c_{.h}\log\rho_{h} \nonumber\\
-	&+
+	\sum\limits_{h}  c_{.h}\log\rho_{h} 
+	+
 	\sum\limits_{k} 
 	\left[
 	\mathbf{R}^{\top}(\mathbf{S}\odot \hat{\boldsymbol{\beta}})\mathbf{C}	
