@@ -37,20 +37,19 @@ while the goal of the linear algebra approach is to handle the data using matric
 	+
 	\sum\limits_{k} 
 	\left[
-	\mathbf{R}^{\top}(\mathbf{S}\odot \hat{\boldsymbol{\beta}})\mathbf{C}	
+	\mathbf{R}^{\top}(\mathbf{S_{x}\odot \hat{\boldsymbol{\beta}})\mathbf{C}	
 	\right]_{kk}
 	\left(
 	A(\alpha_{kk}) - A(\alpha)
 	\right)\nonumber\\
-	&+
-	N A(\alpha)\nonumber\\
 	&-  
 	\sum\limits_{k}  
 	[\mathbf{R}^{\top}	(\mathbf{E}_{mn} \odot \hat{\boldsymbol{\beta}} )\mathbf{C}]_{kk} 
 	\left(
 	F(A(\alpha_{kk})) -F(A(\alpha)) 
-	\right) \nonumber\\
-	&- 
+	\right)
+	+
+	N A(\alpha)- 
 	B F(A(\alpha)) 
 \end{align*}
 ```
