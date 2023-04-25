@@ -125,6 +125,8 @@ Please cite the following paper in your publication if you are using [ELBMcoclus
 ## References
 
 
-[1] [Govaert and Nadif, Clustering with block mixture models, Pattern Recognition (2013).](https://www.sciencedirect.com/science/article/abs/pii/S0031320302000742)\\
+[1] [Govaert and Nadif, Clustering with block mixture models, Pattern Recognition (2013).](https://www.sciencedirect.com/science/article/abs/pii/S0031320302000742)
+
+
 [2] [Ailem, Melissa et al, Sparse Poisson latent block model for document clustering, IEEE Transactions on Knowledge and Data Engineering (2017).](https://ieeexplore.ieee.org/abstract/document/7876732) 
 
