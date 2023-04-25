@@ -29,29 +29,27 @@ while the goal of the linear algebra approach is to handle the data using matric
 ```
 -  **SELBM**
 ```math
-\begin{align*}
-	L^{SELBM}(\boldsymbol{r},\boldsymbol{c},\boldsymbol{\gamma})
+\begin{align}
+	L^{\text{SELBM}}(\mathbf{r},\mathbf{c},\boldsymbol{\gamma})
 	\propto&
 	\sum\limits_{k} r_{.k} \log\pi_{k} +	
-	\sum\limits_{h}  c_{.h}\log\rho_{h} 
+	\sum\limits_{h}  c_{.h}\log\rho_{h}
 	+
 	\sum\limits_{k} 
 	\left[
-	\mathbf{R}^{\top}(\mathbf{S_{x}\odot \hat{\boldsymbol{\beta}})\mathbf{C}	
+	\mathbf{R}^{\top}(\mathbf{S_{x}}\odot \hat{\boldsymbol{\beta}})\mathbf{C}	
 	\right]_{kk}
 	\left(
 	A(\alpha_{kk}) - A(\alpha)
 	\right)\nonumber\\
 	&-  
 	\sum\limits_{k}  
-	\left[
-	\mathbf{R}^{\top}(\mathbf{E}_{mn} \odot \hat{\boldsymbol{\beta}})\mathbf{C}
-	\right]_{kk} 
+	[\mathbf{R}^{\top}	(\mathbf{E}_{mn} \odot \hat{\boldsymbol{\beta}} )\mathbf{C}]_{kk} 
 	\left(
 	F(A(\alpha_{kk})) -F(A(\alpha)) 
-	\right)
-	+N A(\alpha)- B F(A(\alpha)) 
-\end{align*}
+	\right) +N A(\alpha)	- 
+	B F(A(\alpha)).
+\end{align}
 ```
 
 ![](https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/WebACE_SELBM_Reorg.png?raw=true)
