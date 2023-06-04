@@ -53,6 +53,9 @@ The goal of the statistical approach is to analyze the behavior of the data by c
 
 ![](https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/WebACE_SELBM_Reorg.png?raw=true)
 
+
+## [Synthict Dataset](https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/Syn_data.png?raw=true)
+
 ## [Datasets](https://github.com/Saeidhoseinipour/ELBMcoclust/tree/main/Datasets)
 
 | Datasets | Documents | Words | Sporsity | Number of clusters |
