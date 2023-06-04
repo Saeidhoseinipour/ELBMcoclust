@@ -73,10 +73,10 @@ from ELBMcoclust.Models.coclust_SELBMcem import CoclustSELBMcem
 ```python
 from NMTFcoclust.Evaluation.EV import Process_EV
 
-ELBM = CoclustELBMcem(n_row_clusters = 4, n_col_clusters = 4, model = "Poisson", max_iter=1)
+ELBM = CoclustELBMcem(n_row_clusters = 4, n_col_clusters = 4, model = "Poisson")
 ELBM.fit(X_CSTR)
 
-SELBM = CoclustSELBMcem(n_row_clusters = 4, n_col_clusters = 4, model = "Poisson", max_iter=1)
+SELBM = CoclustSELBMcem(n_row_clusters = 4, n_col_clusters = 4, model = "Poisson")
 SELBM.fit(X_CSTR)
 
 Process_Ev = Process_EV(true_labels ,X_CSTR, ELBM) 
