@@ -136,4 +136,4 @@ Please cite the following paper in your publication if you are using [ELBMcoclus
 
 [4] [Ailem, Melissa et al, Sparse Poisson latent block model for document clustering, IEEE Transactions on Knowledge and Data Engineering (2017).](https://ieeexplore.ieee.org/abstract/document/7876732) 
 
-[5] [Saeid, Hoseinipour et al, Orthogonal Parametric Non-negative Matrix Tri-Factorization with $\alpha$-Divergence for Co-clustering](http://dx.doi.org/10.2139/ssrn.4416222)
+[5] [Saeid, Hoseinipour et al, Orthogonal Parametric Non-negative Matrix Tri-Factorization with $\alpha$-Divergence for Co-clustering](https://doi.org/10.1016/j.eswa.2023.120680)
