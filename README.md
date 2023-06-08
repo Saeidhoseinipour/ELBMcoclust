@@ -118,7 +118,7 @@ Please cite the following paper in your publication if you are using [ELBMcoclus
 
 ```bibtex
  @article{ELBMcoclust, 
-    title={Sparse Expoential family latent block model for co-clustering}, 
+    title={Sparse expoential family latent block model for co-clustering}, 
     DOI={Preprint}, 
     journal={Stat (preprint)}, 
     author={Saeid Hoseinipour, Mina Aminghafari, Adel Mohammadpour}, 
@@ -136,3 +136,4 @@ Please cite the following paper in your publication if you are using [ELBMcoclus
 
 [4] [Ailem, Melissa et al, Sparse Poisson latent block model for document clustering, IEEE Transactions on Knowledge and Data Engineering (2017).](https://ieeexplore.ieee.org/abstract/document/7876732) 
 
+[5] [Saeid, Hoseinipour et al, Orthogonal Parametric Non-negative Matrix Tri-Factorization with $\alpha$-Divergence for Co-clustering](http://dx.doi.org/10.2139/ssrn.4416222)
