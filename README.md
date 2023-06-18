@@ -116,6 +116,8 @@ VS.boxplot_ELBM_SELBM('Classic3', a)
  --> 
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/Wordcloud_Classic3_SELBM.png?raw=true" width="80%">
 
+![WC_ELBMcoclust](https://github.com/Saeidhoseinipour/ELBMcoclust/assets/43203342/5f33f01d-2236-4a47-9cf0-cf904fd047c3)
+
 ## Cite
 Please cite the following paper in your publication if you are using [ELBMcoclust]() in your research:
 
