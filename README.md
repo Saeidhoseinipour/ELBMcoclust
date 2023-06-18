@@ -51,7 +51,7 @@ The goal of the statistical approach is to analyze the behavior of the data by c
 \end{align}
 ```
 
-![](https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/WebACE_SELBM_Reorg.png?raw=true)
+![](https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/WebACE_SELBMvsELBM.png?raw=true)
 
 
 ## [Synthetic  Dataset](https://github.com/Saeidhoseinipour/ELBMcoclust/tree/main/Synthetic_Data)
