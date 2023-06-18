@@ -111,9 +111,9 @@ VS.boxplot_ELBM_SELBM('Classic3', a)
 
 ## Word cloud of SELBM for Classic3
 
-<!-- Text --> 
+<!-- 
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Results/SELBM_Classic3.gif" width="45%">
-
+ --> 
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/Wordcloud_Classic3_SELBM.png?raw=true" width="80%">
 
 ## Cite
