@@ -1,6 +1,6 @@
+# ELBMcoclust and SELBMcoclust
 ![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/ELBM/Coclust/black?icon=instgrame)
 
-# ELBMcoclust and SELBMcoclust
 Sparse and Non-Sparse Exponential Family Latent Block Model for Co-clustering
 
 The goal of the statistical approach is to analyze the behavior of the data by considering the probability distribution. The complete log-likelihood function for three version of LBM, Exponential LBM and Sparse Exponential LBM,  will be as follows:
