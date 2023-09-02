@@ -1,5 +1,4 @@
 # ELBMcoclust and SELBMcoclust
-[![License](https://img.shields.io/badge/license-Apache%202-blue)](LICENSE)
 ![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/ELBM/Coclust/black?icon=instgrame)
 
 Sparse and Non-Sparse Exponential Family Latent Block Model for Co-clustering
