@@ -12,10 +12,9 @@ Modified EM Algorithms with Exponential  Family Latent Block Model.
 
 from .coclust_ELBMcem import CoclustELBMcem
 #from .coclust_SELBMcem_v2 import CoclustELBMcem
-from .coclust_SELBMcem_v3 import CoclustSELBMcem
+from .coclust_SELBMcem_v6_2 import CoclustSELBMcem
 
 
 
 __all__ = ['CoclustELBMcem',
-'coclust_plbcem',
 'CoclustSELBMcem']
