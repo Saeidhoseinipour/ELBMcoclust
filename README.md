@@ -105,7 +105,7 @@ array([[101,   0,   0,   0],
 
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/swarm_plot.png?raw=true" width="45%">
 
-## Word cloud of $\texttt{PoissonSELBM}$ for Classic3
+## Word cloud of ```math \texttt{PoissonSELBM}``` for Classic3
 
 <!-- 
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Results/SELBM_Classic3.gif" width="45%">
