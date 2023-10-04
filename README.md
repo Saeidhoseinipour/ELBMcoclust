@@ -63,9 +63,12 @@ The goal of the statistical approach is to analyze the behavior of the data by c
 
 | Datasets | Documents | Words | Sporsity | Number of clusters |
 | -- | ----------- | -- | -- | -- |
-| [CSTR](https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Datasets/cstr.mat) | 475 | 1000 | 96% | 4 |
+| [Classic3](https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Datasets/classic3.mat) |3891  |4303  |98.95%  |3  |
+| [CSTR](https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Datasets/cstr.mat) | 475 | 1000 | 96.60% | 4 |
 | [WebACE](https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Datasets/WebACE..mat) |2340  |1000  | 91.83% |20  |
-| [Classic3](https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Datasets/classic3.mat) |3891  |4303  |98%  |3  |
+| [Reviews](https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Datasets/classic3.mat) |4069  |18483  |98.99%  |5  |
+| [Sports](https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Datasets/classic3.mat) |8580  |14870  |99.14%  |7  |
+| [TDT2](https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Datasets/classic3.mat) |9394  |36771  |99.64%  |30  |
 
 ## [Models](https://github.com/Saeidhoseinipour/ELBMcoclust/tree/main/Models)
 ```python
