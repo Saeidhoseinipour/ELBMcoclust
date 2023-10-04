@@ -102,17 +102,10 @@ array([[101,   0,   0,   0],
 
 ## Visualization
 
-```python
-from ELBMcoclust.Visualization.All_VS import All_Visualization
 
-VS = All_Visualization(do_plot=True, save=True, dpi = 200)
-a = 'Boxplot_Classic3_Final'
-VS.boxplot_ELBM_SELBM('Classic3', a)
-```
+<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/Scatter_plots.png?raw=true" width="45%">
 
-<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/CSTR-1.png?raw=true" width="45%">
-
-<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/Classic3-1.png?raw=true" width="45%">
+<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/swarm_plots.png?raw=true" width="45%">
 
 ## Word cloud of SELBM for Classic3
 
