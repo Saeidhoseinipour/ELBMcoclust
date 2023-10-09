@@ -100,6 +100,7 @@ array([[101,   0,   0,   0],
 
 ## Visualization
 
+<font face="Arial" size="4" color="blue">This is some styled text.</font>
 
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/Scatter_plots.png?raw=true" width="90%">
 
