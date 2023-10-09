@@ -124,7 +124,7 @@ Please cite the following paper in your publication if you are using [ELBMcoclus
     title={Sparse expoential family latent block model for co-clustering}, 
     DOI={Preprint}, 
     journal={Computational Statistics & Data Analysis (preprint)}, 
-    author={Saeid Hoseinipour, Mina Aminghafari, Adel Mohammadpour}, 
+    author={Saeid Hoseinipour, Mina Aminghafari, Adel Mohammadpour, Mohamed Nadif}, 
     year={2023}
 } 
 ```
