@@ -122,9 +122,9 @@ array([[101,   0,   0,   0],
 
 
 ## Highlights
-- Exponential family Latent Block Model (ELBM) and Sparse version (SELBM) were proposed, which unify many models with various data types.
+- Exponential family Latent Block Model (**ELBM**) and Sparse version (**SELBM**) were proposed, which unify many models with various data types.
 - The proposed algorithms using the classification expectation maximization approach have a general framework and are based on matrix form.
-- Using six real document-word matrices and three synthetic datasets (Bernoulli, Poisson, Gaussian), we compared ELBM with SELBM.
+- Using six real document-word matrices and three synthetic datasets (Bernoulli, Poisson, Gaussian), we compared **ELBM** with **SELBM**.
 
 ## Cite
 Please cite the following paper in your publication if you are using [`ELBMcoclust`]() in your research:
