@@ -100,13 +100,13 @@ array([[101,   0,   0,   0],
 
 ## Visualization
 
-`PoissonSELBM`
+
 
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/Scatter_plots.png?raw=true" width="90%">
 
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/swarm_plot.png?raw=true" width="90%">
 
-## Word cloud of ```math \texttt{PoissonSELBM}``` for Classic3
+## Word cloud of `PoissonSELBM` for Classic3
 
 <!-- 
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Results/SELBM_Classic3.gif" width="45%">
@@ -118,7 +118,7 @@ array([[101,   0,   0,   0],
 -->
 
 ## Cite
-Please cite the following paper in your publication if you are using [ELBMcoclust]() in your research:
+Please cite the following paper in your publication if you are using [`ELBMcoclust`]() in your research:
 
 ```bibtex
  @article{ELBMcoclust, 
