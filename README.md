@@ -71,12 +71,12 @@ The goal of the statistical approach is to analyze the behavior of the data by c
 
 | **Datasets**    | **Topics**                                | **#Classes** | **(#Documents, #Words)** | **Sparsity(%0)** | **Balance** |
 |-----------------|-------------------------------------------|--------------|---------------------------------|-------------------|-------------|
-| Classic3        | Medical, Information retrieval, Aeronautical systems | 3            | (3891, 4303)               | 98.95            | 0.71        |
-| CSTR            | Robotics/Vision, Systems, Natural Language Processing, Theory | 4            | (475, 1000)                | 96.60            | 0.399       |
-| WebACE          | 20 different topics from WebACE project | 20           | (2340, 1000)               | 91.83            | 0.169       |
-| Reviews         | Food, Music, Movies, Radio, Restaurants | 5            | (4069, 18483)              | 98.99            | 0.099       |
-| Sports          | Baseball, Basketball, Bicycling, Boxing, Football, Golfing, Hockey | 7            | (8580, 14870)              | 99.14            | 0.036       |
-| TDT2            | 30 different topics                     | 30           | (9394, 36771)              | 99.64            | 0.028       |
+|  [Classic3](https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Datasets/classic3.mat)        | Medical, Information retrieval, Aeronautical systems | 3            | (3891, 4303)               | 98.95            | 0.71        |
+| [CSTR](https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Datasets/cstr.mat)            | Robotics/Vision, Systems, Natural Language Processing, Theory | 4            | (475, 1000)                | 96.60            | 0.399       |
+| [WebACE](https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Datasets/WebACE..mat)          | 20 different topics from WebACE project | 20           | (2340, 1000)               | 91.83            | 0.169       |
+| [Reviews](https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Datasets/Reviews.mat)         | Food, Music, Movies, Radio, Restaurants | 5            | (4069, 18483)              | 98.99            | 0.099       |
+|  [Sports](https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Datasets/Sports.mat)          | Baseball, Basketball, Bicycling, Boxing, Football, Golfing, Hockey | 7            | (8580, 14870)              | 99.14            | 0.036       |
+| [TDT2](https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Datasets/TDT2.mat)            | 30 different topics                     | 30           | (9394, 36771)              | 99.64            | 0.028       |
 
 * Balance: (\#documents in the smallest class)/(\#documents in the largest class)
 
