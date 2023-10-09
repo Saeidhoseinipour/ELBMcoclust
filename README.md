@@ -120,6 +120,12 @@ array([[101,   0,   0,   0],
 ![WC_ELBMcoclust](https://github.com/Saeidhoseinipour/ELBMcoclust/assets/43203342/5f33f01d-2236-4a47-9cf0-cf904fd047c3)
 -->
 
+
+## Highlights
+- Exponential family Latent Block Model (ELBM) and Sparse version (SELBM) were proposed, which unify many models with various data types.
+- The proposed algorithms using the classification expectation maximization approach have a general framework and are based on matrix form.
+- Using six real document-word matrices and three synthetic datasets (Bernoulli, Poisson, Gaussian), we compared ELBM with SELBM.
+
 ## Cite
 Please cite the following paper in your publication if you are using [`ELBMcoclust`]() in your research:
 
