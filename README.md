@@ -99,10 +99,11 @@ array([[101,   0,   0,   0],
        [  0,   0,  68, 110],
        [  0,   0,   0, 125]], dtype=int64)
 ```
-## Confution Matrices
-<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/Scatter_plots.png?raw=true" width="90%">
-<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/Scatter_plots.png?raw=true" width="90%">
-<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/Scatter_plots.png?raw=true" width="90%">
+## Confusion Matrices
+
+<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/confusion_matrix_Classic3.pdf?raw=true" width="90%">
+<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/confusion_matrix_CSTR.pdf?raw=true" width="90%">
+<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/confusion_matrix_Sports.pdf?raw=true" width="90%">
 
 
 ## Visualization
