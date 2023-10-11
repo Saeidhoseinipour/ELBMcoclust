@@ -101,11 +101,10 @@ array([[101,   0,   0,   0],
 ```
 ## Confusion Matrices
 
-![Download PDF Plot](https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/confusion_matrix_Classic3.pdf)
 
-<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/confusion_matrix_Classic3.pdf?raw=true" width="90%">
-<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/confusion_matrix_CSTR.pdf?raw=true" width="90%">
-<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/confusion_matrix_Sports.pdf?raw=true" width="90%">
+<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/confusion_matrix_Classic3-1.png?raw=true" width="90%">
+<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/confusion_matrix_CSTR-1.png?raw=true" width="90%">
+<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/confusion_matrix_Sports-1.png?raw=true" width="90%">
 
 
 ## Visualization
