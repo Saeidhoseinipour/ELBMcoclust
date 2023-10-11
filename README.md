@@ -102,14 +102,14 @@ array([[101,   0,   0,   0],
 ## Confusion Matrices
 
 
-<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/confusion_matrix_Classic3-1.png?raw=true" width="50%">
-<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/confusion_matrix_CSTR-1.png?raw=true" width="50%">
-<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/confusion_matrix_Sports-1.png?raw=true" width="50%">
+<div>
+  <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/confusion_matrix_Classic3-1.png?raw=true" width="50%">
+  <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/confusion_matrix_CSTR-1.png?raw=true" width="50%">
+  <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/confusion_matrix_Reviews-1.png?raw=true" width="50%">
+</div>
 
 
 ## Visualization
-
-
 
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/Scatter_plots.png?raw=true" width="90%">
 
