@@ -103,9 +103,9 @@ array([[101,   0,   0,   0],
 
 
 <div>
-  <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/confusion_matrix_Classic3-1.png?raw=true" width="50%">
-  <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/confusion_matrix_CSTR-1.png?raw=true" width="50%">
-  <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/confusion_matrix_Reviews-1.png?raw=true" width="50%">
+  <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/confusion_matrix_Classic3-1.png?raw=true" width="30%">
+  <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/confusion_matrix_CSTR-1.png?raw=true" width="30%">
+  <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/confusion_matrix_Reviews-1.png?raw=true" width="30%">
 </div>
 
 
