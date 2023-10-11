@@ -99,6 +99,10 @@ array([[101,   0,   0,   0],
        [  0,   0,  68, 110],
        [  0,   0,   0, 125]], dtype=int64)
 ```
+## Confution Matrices
+<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/Scatter_plots.png?raw=true" width="90%">
+<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/Scatter_plots.png?raw=true" width="90%">
+<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/Scatter_plots.png?raw=true" width="90%">
 
 
 ## Visualization
