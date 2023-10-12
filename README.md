@@ -122,13 +122,16 @@ array([[101,   0,   0,   0],
 <!-- 
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Results/SELBM_Classic3.gif" width="45%">
  --> 
+
+<!--
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/Wordcloud_Classic3_SELBM.png?raw=true" width="80%">
+-->
 
 <!--
 ![WC_ELBMcoclust](https://github.com/Saeidhoseinipour/ELBMcoclust/assets/43203342/5f33f01d-2236-4a47-9cf0-cf904fd047c3)
 -->
 
-<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/Word_cloud.png?raw=true" width="80%">
+<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/Word_clouds.png?raw=true" width="100%">
 
 ## Highlights
 - Exponential family Latent Block Model (**ELBM**) and Sparse version (**SELBM**) were proposed, which unify many models with various data types.
