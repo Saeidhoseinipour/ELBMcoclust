@@ -9,12 +9,12 @@ Sparse and Non-Sparse Exponential Family Latent Block Model for Co-clustering
 
 The goal of the statistical approach is to analyze the behavior of the data by considering the probability distribution. The complete log-likelihood function for three version of LBM, Exponential LBM and Sparse Exponential LBM,  will be as follows:
 `ELBMcoclust`
--  **`LBM`**
+-  **LBM**
 ```math
 		L^{\text{LBM}}(\mathbf{r},\mathbf{c},\boldsymbol{\gamma})= \sum\limits_{i,k}r_{ik} \log\pi_{k} +\sum\limits_{j,h}  \log\rho_{h} c^{\top}_{jh}+
 		\sum\limits_{i,j,k,h} r_{ik}\log \varphi(x_{ij};\alpha_{kh})c^{\top}_{hj}
 ```
--  **`ELBM`**
+-  **ELBM**
 ```math
 	L^{\text{ELBM}}(\mathbf{r},\mathbf{c},\boldsymbol{\gamma})	\propto 
 	\sum\limits_{k}
@@ -32,7 +32,7 @@ The goal of the statistical approach is to analyze the behavior of the data by c
 	\mathbf{F}_{\boldsymbol{\alpha}}
 	\right)
 ```
--  **`SELBM`**
+-  **SELBM**
 ```math
 \begin{align}
 	L^{\text{SELBM}}(\mathbf{r},\mathbf{c},\boldsymbol{\gamma})
