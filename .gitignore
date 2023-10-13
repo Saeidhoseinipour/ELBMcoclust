@@ -1,0 +1,21 @@
+# Ignore compiled object files and executables
+*.o
+*.out
+
+# Ignore log files
+*.log
+
+# Ignore user-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore editor backup files
+*~
+
+# Ignore build output directories
+build/
+dist/
+
+# Ignore configuration files with sensitive data (example: API keys)
+config.ini
+secrets.json
