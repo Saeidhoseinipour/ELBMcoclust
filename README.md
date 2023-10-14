@@ -106,7 +106,7 @@ array([[101,   0,   0,   0],
 ## Confusion Matrices
 
 
-<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/CM_3_Dataset.png?raw=true" width="100%">
+<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/CM_3_dataset.png?raw=true" width="100%">
 
 
 ## Visualization
