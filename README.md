@@ -3,7 +3,6 @@
 ![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/SELBM/Coclust/orange?icon=instgrame)
 
 # ELBMcoclust and SELBMcoclust
-<!---![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/ELBM/Coclust/black?icon=instgrame)--->
 
 Sparse and Non-Sparse Exponential Family Latent Block Model for Co-clustering
 
