@@ -7,12 +7,11 @@
 
 """
 Module `ELBMcoclust.Models` module gathers implementations of co-clustering
-Modified EM Algorithms with Exponential  Family Latent Block Model.
+Modified CEM Algorithms with (Sparse) Exponential  Family Latent Block Model.
 """
 
 from .coclust_ELBMcem import CoclustELBMcem
-#from .coclust_SELBMcem_v2 import CoclustELBMcem
-from .coclust_SELBMcem_v6_2 import CoclustSELBMcem
+from .coclust_SELBMcem import CoclustSELBMcem
 
 
 
