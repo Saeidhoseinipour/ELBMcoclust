@@ -1,8 +1,13 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/ELBM/Coclust/orange?icon=instgrame)](https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Models/coclust_ELBMcem.py)
 [![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/SELBM/Coclust/orange?icon=instgrame)](https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Models/coclust_SELBMcem.py)
+
+<!--
 [![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/Orginal/Paper/pink?icon=instgrame)](https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Models/coclust_SELBMcem.py)
 [![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/DOI:/1011.18363.32761/green?icon=instgrame)](https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Models/coclust_SELBMcem.py)
+[![Supplementary material](https://badgen.net/badge/Supplementary/material/orange?icon=instgrame)](https://ars.els-cdn.com/content/image/1-s2.0-S095741742301182X-mmc1.pdf)
+[![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/Purchase/PDF/brown?icon=instgrame)](https://www.sciencedirect.com/getaccess/pii/S095741742301182X/purchase)
+-->
 # `ELBMcoclust` and `SELBMcoclust`
 
 
