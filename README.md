@@ -115,6 +115,7 @@ array([[101,   0,   0,   0],
 
 
 ## Visualization
+<img alt="Sample SVG Image" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/bar_chart_all_words_classic3_top_100.svg">
 
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/Box_plots.png?raw=true" width="100%">
 
