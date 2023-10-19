@@ -32,6 +32,7 @@ print(df_1['Freq_row_cluster_2'].sum(),df_2['Freq_row_cluster_2'].sum(),df_3['Fr
 print(df_1['Freq_row_cluster_3'].sum(),df_2['Freq_row_cluster_3'].sum(),df_3['Freq_row_cluster_3'].sum())
 ```
 
+
 |                  | Column 1                 | Column 2                 | Column 3                 |
 |------------------|--------------------------|--------------------------|--------------------------|
 | Row 1            | 0.06122926646589793      | 0.013789848175136924     | 0.19179006662817732      |
@@ -40,6 +41,7 @@ print(df_1['Freq_row_cluster_3'].sum(),df_2['Freq_row_cluster_3'].sum(),df_3['Fr
 
 
 
+Normalized Version:
 
 |                     | Freq_cluster | Freqency Medical cluster | Freqency Information Retrieval cluster | Freqency Aeronautical Systems cluster | Column labels |
 |---------------------|--------------|--------------------|--------------------|--------------------|---------------|
@@ -65,6 +67,30 @@ print(df_1['Freq_row_cluster_3'].sum(),df_2['Freq_row_cluster_3'].sum(),df_3['Fr
 | disturbance         | 0.000222     | 0.000055           | 0.000000           | 0.000168           | 3             |
 | ribonucleic         | 0.000039     | 0.000039           | 0.000000           | 0.000000           | 3             |
 
+
+Non-normalized version:
+
+|                   | Freq_cluster | Freq_row_cluster_1 | Freq_row_cluster_2 | Freq_row_cluster_3 | Column labels |
+|-------------------|--------------|--------------------|--------------------|--------------------|---------------|
+| count             | 4303.000000  | 4303.000000        | 4303.000000        | 4303.000000        | 4303.000000   |
+| mean              | 59.574251    | 16.049965          | 14.464792          | 29.059493          | 1.253079      |
+| std               | 100.797875   | 31.003533          | 35.402298          | 76.031959          | 0.622938      |
+| min               | 8.000000     | 0.000000           | 0.000000           | 0.000000           | 1.000000      |
+| 25%               | 14.000000    | 2.000000           | 0.000000           | 1.000000           | 1.000000      |
+| 50%               | 26.000000    | 7.000000           | 5.000000           | 7.000000           | 1.000000      |
+| 75%               | 59.000000    | 17.000000          | 13.000000          | 23.000000          | 1.000000      |
+| max               | 1465.000000  | 646.000000         | 929.000000         | 1373.000000        | 3.000000      |
+| Words             | Freq_cluster | Freq_row_cluster_1 | Freq_row_cluster_2 | Freq_row_cluster_3 | Column labels |
+| contribution      | 37.0         | 10.0               | 14.0               | 13.0               | 1             |
+| catheterization   | 19.0         | 19.0               | 0.0                | 0.0                | 1             |
+| distribution      | 557.0        | 55.0               | 78.0               | 424.0              | 1             |
+| dr                | 34.0         | 20.0               | 14.0               | 0.0                | 1             |
+| cp                | 19.0         | 1.0                | 0.0                | 18.0               | 1             |
+| equilibrium       | 183.0        | 13.0               | 1.0                | 169.0              | 3             |
+| librarianship     | 88.0         | 3.0                | 78.0               | 7.0                | 3             |
+| extremely         | 34.0         | 9.0                | 7.0                | 18.0               | 3             |
+| disturbance       | 57.0         | 14.0               | 0.0                | 43.0               | 3             |
+| ribonucleic       | 10.0         | 10.0               | 0.0                | 0.0                | 3             |
 
 
 
