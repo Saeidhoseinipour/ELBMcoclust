@@ -2,7 +2,7 @@
  Classic3 dataset containing 3891 documents by merging the popular MEDLINE, CISI, and CRANFIELD sets. MEDLINE consists of 1033 abstracts from “Medical” papers, CISI consists of 1460 abstracts from “Information Retrieval” papers, and CRANFIELD consists of 1398 abstracts from “Aeronautical Systems” papers.
 
 
-|                     | Freq_cluster | Freq_row_cluster_1 | Freq_row_cluster_2 | Freq_row_cluster_3 | Column labels |
+|                     | Freq_cluster | Freqency Medical cluster | Freqency Information Retrieval cluster | Freqency Aeronautical Systems cluster | Column labels |
 |---------------------|--------------|--------------------|--------------------|--------------------|---------------|
 | count               | 4303 | 4303        | 4303        | 4303        | 4303   |
 | mean                | 0.000232     | 0.000062           | 0.000057           | 0.000113           | 2.579131      |
