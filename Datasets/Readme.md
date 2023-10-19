@@ -47,7 +47,7 @@ print(df_1['Freq_row_cluster_3'].sum(),df_2['Freq_row_cluster_3'].sum(),df_3['Fr
 | 110727.0 | 4505.0 | 9811.0 |
 
 
-Normalized Version:
+**Normalized Version**:
 
 |                     | Freq_cluster | Freqency Medical cluster | Freqency Information Retrieval cluster | Freqency Aeronautical Systems cluster | Column labels |
 |---------------------|--------------|--------------------|--------------------|--------------------|---------------|
@@ -74,7 +74,7 @@ Normalized Version:
 | ribonucleic         | 0.000039     | 0.000039           | 0.000000           | 0.000000           | 3             |
 
 
-Non-normalized version:
+**Non-normalized version**:
 
 |                   | Freq_cluster | Freq_row_cluster_1 | Freq_row_cluster_2 | Freq_row_cluster_3 | Column labels |
 |-------------------|--------------|--------------------|--------------------|--------------------|---------------|
@@ -86,7 +86,7 @@ Non-normalized version:
 | 50%               | 26.000000    | 7.000000           | 5.000000           | 7.000000           | 1.000000      |
 | 75%               | 59.000000    | 17.000000          | 13.000000          | 23.000000          | 1.000000      |
 | max               | 1465.000000  | 646.000000         | 929.000000         | 1373.000000        | 3.000000      |
-
+|			|	|			|			|			|		|
 | **Words**             | **Freq_cluster** | **Freq_row_cluster_1** | **Freq_row_cluster_2** | **Freq_row_cluster_3** | **Column labels** |
 | contribution      | 37.0         | 10.0               | 14.0               | 13.0               | 1             |
 | catheterization   | 19.0         | 19.0               | 0.0                | 0.0                | 1             |
@@ -106,7 +106,7 @@ df_1 = df[df['Column labels'] == 1]
 df_1.sort_values(by="Freq_cluster", ascending=False).head(20)
 ```
 
-|    | Words        |   Freq_cluster |   Freq_row_cluster_1 |   Freq_row_cluster_2 |   Freq_row_cluster_3 |   Column labels |
+|  index in data matrix  | Words        |   Freq_cluster |   Freq_row_cluster_1 |   Freq_row_cluster_2 |   Freq_row_cluster_3 |   Column labels |
 |---:|:-------------|---------------:|---------------------:|---------------------:|---------------------:|---------------:|
 |  2 | distribution |            557 |                   63 |                   90 |                  404 |              1  |
 | 29 | ae           |            344 |                    0 |                    8 |                  336 |              1  |
