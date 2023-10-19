@@ -133,11 +133,9 @@ df_1.sort_values(by="Freq_cluster", ascending=False).head(20)
 
 <img alt="Sample SVG Image" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/bar_chart_all_words_classic3_top_1000.svg">
 
-<svg xmlns="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/wordclouds.svg" width="width" height="height" viewBox="0 0 width height">
-    <title>Word clouds of top 100 for each co-cluster</title>
-    <desc>text mining, saeid hoseinipour, clustering, co-clustering</desc>
-    <!-- Your SVG content goes here -->
-</svg>
+<img alt="Sample SVG Image" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/wordclouds.svg">
+
+
 
 
 # Refrences
