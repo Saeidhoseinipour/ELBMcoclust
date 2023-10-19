@@ -30,7 +30,35 @@
 <img alt="Sample SVG Image" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/bar_chart_all_words_classic3_top_1000.svg">
 
 
+```python
+from ELBMcoclust.Models.coclust_SELBMcem import CoclustSELBMcem
 
+SELBM = CoclustSELBMcem(n_row_clusters = 3, n_col_clusters = 3, model = "Poisson")
+SELBM.fit(X_Classic3)
+
+freq_cluster = X_Classic3_sum_1.sum(axis = 0)                                     # For wordcloud plot
+freq_block = SELBM.R.T@X_Classic3_sum_1                                           # n_row_cluster x number of column
+freq_block_2 = SELBM.R.T@X_Classic3_sum_1@SELBM.C                                 # n_row_cluster x number of column
+
+w = mydata_2['term_labels']                                                       # 4303  Words for WC plot 
+
+
+dic_word_block = {'Words': w.tolist(),
+                  'Freq_cluster': freq_cluster.tolist(),
+                  'Freq_row_cluster_1': freq_block[0,:],
+                  'Freq_row_cluster_2': freq_block[1,:],
+                  'Freq_row_cluster_3': freq_block[2,:], 
+                  'Column labels': np.sort(SELBM.column_labels_)}
+print(dic_word_block, dic_word_block)
+
+df_1 = df[df['Column labels'] == 1]
+df_2 = df[df['Column labels'] == 2]
+df_3 = df[df['Column labels'] == 3]
+
+print(df_1['Freq_row_cluster_1'].sum(),df_2['Freq_row_cluster_1'].sum(),df_3['Freq_row_cluster_1'].sum())
+print(df_1['Freq_row_cluster_2'].sum(),df_2['Freq_row_cluster_2'].sum(),df_3['Freq_row_cluster_2'].sum())
+print(df_1['Freq_row_cluster_3'].sum(),df_2['Freq_row_cluster_3'].sum(),df_3['Freq_row_cluster_3'].sum())
+```
 
 
 
