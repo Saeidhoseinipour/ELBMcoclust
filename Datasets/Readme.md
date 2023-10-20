@@ -33,19 +33,19 @@ print(df_1['Freq_row_cluster_3'].sum(),df_2['Freq_row_cluster_3'].sum(),df_3['Fr
 ```
 
 
-|                  | Column 1                 | Column 2                 | Column 3                 |
+|                  | Word Cluster 1 (low frequency)                 | Word Cluster 2 ( medium frequency)                 | Word Cluster 3 (hight frequency)                 |
 |------------------|--------------------------|--------------------------|--------------------------|
-| Row 1            | 0.06122926646589793      | 0.013789848175136924     | 0.19179006662817732      |
-| Row 2            | 0.042118526378204624     | 0.013142290948242232     | 0.19034671618268917      |
-| Row 3            | 0.13270632109476188      | 0.017987267308502503     | 0.33688969681838765      |
+| Document Cluster 1 (Medical)           | 0.06122926646589793      | 0.013789848175136924     | 0.19179006662817732      |
+| Document Cluster 2  (Information Retrieval)          | 0.042118526378204624     | 0.013142290948242232     | 0.19034671618268917      |
+| Document Cluster 3  (Aeronautical Systems)          | 0.13270632109476188      | 0.017987267308502503     | 0.33688969681838765      |
 
-|    |      |      |
-|---:|-----:|-----:|
-|    |      |      |
-| 60249.0 | 3430.0 | 5384.0 |
-| 52954.0 | 3534.0 | 5754.0 |
-| 110727.0 | 4505.0 | 9811.0 |
 
+
+|                  | Word Cluster 1 (low frequency)                 | Word Cluster 2 ( medium frequency)                 | Word Cluster 3 (hight frequency)                 |
+|------------------|--------------------------|--------------------------|--------------------------|
+| Document Cluster 1 (Medical)           | 60249      | 3430     | 5384      |
+| Document Cluster 2  (Information Retrieval)          | 52954     | 3534     | 5754      |
+| Document Cluster 3  (Aeronautical Systems)          |  110727      | 4505     | 9811      |
 
 **Normalized Version**:
 
