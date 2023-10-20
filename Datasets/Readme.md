@@ -141,3 +141,4 @@ df_1.sort_values(by="Freq_cluster", ascending=False).head(20)
 # Refrences
 [1] [Dhillon, I.S.et al., Information-theoretic co-clustering, Proceedings of the ninth ACM SIGKDD International
 		Conference on Knowledge Discovery and Data Mining, 89-98, 2003](https://dl.acm.org/doi/abs/10.1145/2487575).
+[2] [Saeid, Hoseinipour et al, Sparse Expoential Family Latent Block Model for Co-clustering (2023), Computational Statistics and Data Analysis (preprint).]()
