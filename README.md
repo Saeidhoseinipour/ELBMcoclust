@@ -138,9 +138,6 @@ array([[101,   0,   0,   0],
 -->
 <img alt="Word clouds top 60 words in classic3 dataset obtined by PoissonSELBM for co-clustering" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/WC_classic3_three_color_3_3.svg">
 
-<img alt="Word clouds top 60 words in classic3 dataset obtined by PoissonSELBM for co-clustering" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/WC_classic3_three_color_3_3.svg">
-
-
 <img alt="Bar charts top 50 words in classic3 dataset obtined by PoissonSELBM for co-clustering, Saeid Hoseinipour, text mining, clustering" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/bar_chart_words_classic3_V4_3_3.svg">
 
 ## Highlights
