@@ -39,7 +39,7 @@ The goal of the statistical approach is to analyze the behavior of the data by c
 ```
 -  **SELBM**
 ```math
-\begin{align}
+\begin{align*}
 	L^{\text{SELBM}}(\mathbf{r},\mathbf{c},\boldsymbol{\gamma})
 	\propto&
 	\sum\limits_{k} r_{.k} \log\pi_{k} +	
@@ -57,9 +57,8 @@ The goal of the statistical approach is to analyze the behavior of the data by c
 	[\mathbf{R}^{\top}	(\mathbf{E}_{mn} \odot \hat{\boldsymbol{\beta}} )\mathbf{C}]_{kk} 
 	\left(
 	F(A(\alpha_{kk})) -F(A(\alpha)) 
-	\right) +N A(\alpha)	- 
-	B F(A(\alpha)).
-\end{align}
+	\right).
+\end{align*}
 ```
 
 ![](https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/WebACE_SELBMvsELBM.png?raw=true)
