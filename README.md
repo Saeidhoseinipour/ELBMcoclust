@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/ELBM/Coclust/orange?icon=instgrame)](https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Models/coclust_ELBMcem.py)
 [![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/SELBM/Coclust/orange?icon=instgrame)](https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Models/coclust_SELBMcem.py)
 
