@@ -17,7 +17,7 @@ The goal of the statistical approach is to analyze the behavior of the data by c
 -  **LBM**
 ```math
 		L^{\text{LBM}}(\mathbf{r},\mathbf{c},\boldsymbol{\gamma})= \sum\limits_{i,k}r_{ik} \log\pi_{k} +\sum\limits_{j,h}  \log\rho_{h} c^{\top}_{jh}+
-		\sum\limits_{i,j,k,h} r_{ik}\log \varphi(x_{ij};\alpha_{kh})c^{\top}_{hj}
+		\sum\limits_{i,j,k,h} r_{ik}\log \varphi(x_{ij};\alpha_{kh})c^{\top}_{hj}.
 ```
 -  **ELBM**
 ```math
@@ -35,7 +35,7 @@ The goal of the statistical approach is to analyze the behavior of the data by c
 	(\mathbf{R}^{\top} (\mathbf{E}_{mn}\odot
 	\hat{\boldsymbol{\beta}}) \mathbf{C})^{\top}
 	\mathbf{F}_{\boldsymbol{\alpha}}
-	\right)
+	\right).
 ```
 -  **SELBM**
 ```math
