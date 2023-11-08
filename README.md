@@ -174,6 +174,10 @@ Please cite the following paper in your publication if you are using [`ELBMcoclu
 - For additional visualization, see [here](https://github.com/Saeidhoseinipour/ELBMcoclust/tree/main/Images) 
 - Webscraping via API for collating text datasets from websites and ChatGPT
 
+## Data Availability
+The code of algorithms, all datasets, additional visualizations, and materials are available at [**ELBMcoclust**](https://github.com/Saeidhoseinipour/ELBMcoclust) as the repository on GitHub of the first author. Our experiments were performed on a PC (Intel(R), Core(TM) i7-10510U, 2.30 GHz), and all figures were produced in Python using the [Seaborn](https://seaborn.pydata.org/index.html) and [Matplotlib](https://matplotlib.org/) libraries.
+
+
 ## References
 
 [1] [Govaert and Nadif, Clustering with block mixture models, Pattern Recognition (2013).](https://www.sciencedirect.com/science/article/abs/pii/S0031320302000742)
