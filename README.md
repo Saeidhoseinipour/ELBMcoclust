@@ -180,14 +180,14 @@ The code of algorithms, all datasets, additional visualizations, and materials a
 
 ## References
 
-[1] [Govaert and Nadif, *Clustering with block mixture models*, *Pattern Recognition* (2013).](https://www.sciencedirect.com/science/article/abs/pii/S0031320302000742)
+[1] [Govaert and Nadif, Clustering with block mixture models, *Pattern Recognition* (2013).](https://www.sciencedirect.com/science/article/abs/pii/S0031320302000742)
 
-[2] [Govaert and Nadif, *Block clustering with Bernoulli mixture models: Comparison of different approaches*, *Computational Statistics and Data Analysis* (2008).](https://www.sciencedirect.com/science/article/abs/pii/S0167947307003441)
+[2] [Govaert and Nadif, Block clustering with Bernoulli mixture models: Comparison of different approaches, *Computational Statistics and Data Analysis* (2008).](https://www.sciencedirect.com/science/article/abs/pii/S0167947307003441)
 
-[3] [Rodolphe Priam et al, *Topographic Bernoulli block mixture mapping for binary tables*, *Pattern Analysis and Applications* (2014).](https://link.springer.com/article/10.1007/s10044-014-0368-8)
+[3] [Rodolphe Priam et al, Topographic Bernoulli block mixture mapping for binary tables, *Pattern Analysis and Applications* (2014).](https://link.springer.com/article/10.1007/s10044-014-0368-8)
 
-[4] [Ailem, Melissa et al, *Sparse Poisson latent block model for document clustering*, *IEEE Transactions on Knowledge and Data Engineering* (2017).](https://ieeexplore.ieee.org/abstract/document/7876732)
+[4] [Ailem, Melissa et al, Sparse Poisson latent block model for document clustering, *IEEE Transactions on Knowledge and Data Engineering* (2017).](https://ieeexplore.ieee.org/abstract/document/7876732)
 
-[5] [Saeid, Hoseinipour et al, *Orthogonal parametric non-negative matrix tri-factorization with $\alpha$-Divergence for co-clustering*, *Expert Systems with Applications* (2023).](https://doi.org/10.1016/j.eswa.2023.120680)
+[5] [Saeid, Hoseinipour et al, Orthogonal parametric non-negative matrix tri-factorization with $\alpha$-Divergence for co-clustering, *Expert Systems with Applications* (2023).](https://doi.org/10.1016/j.eswa.2023.120680)
 
-[7] [Fossier, Riverain et al, *Semi-supervised Latent Block Model with pairwise constraints*, *Machine Learning* (2022).](https://link.springer.com/article/10.1007/s10994-022-06137-4)
+[7] [Fossier, Riverain et al, Semi-supervised Latent Block Model with pairwise constraints, *Machine Learning* (2022).](https://link.springer.com/article/10.1007/s10994-022-06137-4)
