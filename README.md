@@ -138,12 +138,14 @@ array([[101,   0,   0,   0],
 <img alt="Word clouds top 60 words in classic3 dataset obtined by PoissonSELBM for co-clustering" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/WC_classic3_three_color_3_3.svg">
 
 <img alt="Bar charts top 50 words in classic3 dataset obtined by PoissonSELBM for co-clustering, Saeid Hoseinipour, text mining, clustering" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/bar_chart_words_classic3_V4_3_3.svg">
+## Main Contributions 
+In this paper, we provide a summary of the main contributions:
 
-## Highlights
-- Exponential family Latent Block Model (**ELBM**) and Sparse version (**SELBM**) were proposed, which unify many models with various data types.
-- The proposed algorithms using the classification expectation maximization approach have a general framework based on matrix form.
-- Using six real document-word matrices and three synthetic datasets (Bernoulli, Poisson, Gaussian), we compared **ELBM** with **SELBM**.
-- All datasets and algorithm codes are available on GitHub as [`ELBMcoclust`]() repository.
+- **Exponential family Latent Block Model (ELBM) and Sparse version (SELBM):** We propose these models, which unify many leading algorithms suited to various data types.
+
+- **Classification Expectation Maximization Approach:** Our proposed algorithms use this approach and have a general framework based on matrix form.
+
+- **Focus on Document-Word Matrices:** While we propose a flexible matrix formalism for different models according to different distributions, we focus on document-word matrices in this work. We evaluate ELBMs and SELBMs using six real document-word matrices and three synthetic datasets.
 
 
 ## Cite
@@ -158,8 +160,15 @@ Please cite the following paper in your publication if you are using [`ELBMcoclu
     year={2023}
 } 
 ```
-## References
 
+## Highlights
+- Exponential family Latent Block Model (**ELBM**) and Sparse version (**SELBM**) were proposed, which unify many models with various data types.
+- The proposed algorithms using the classification expectation maximization approach have a general framework based on matrix form.
+- Using six real document-word matrices and three synthetic datasets (Bernoulli, Poisson, Gaussian), we compared **ELBM** with **SELBM**.
+- All datasets and algorithm codes are available on GitHub as [`ELBMcoclust`]() repository.
+
+
+## References
 
 [1] [Govaert and Nadif, Clustering with block mixture models, Pattern Recognition (2013).](https://www.sciencedirect.com/science/article/abs/pii/S0031320302000742)
 
