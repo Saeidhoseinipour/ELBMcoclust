@@ -151,7 +151,7 @@ In this paper, we provide a summary of the main contributions:
 
 
 ## Cite
-Please cite the following paper in your publication if you are using [`**ELBMcoclust**`]() in your research:
+Please cite the following paper in your publication if you are using [**`ELBMcoclust`**]() in your research:
 
 ```bibtex
  @article{ELBMcoclust, 
@@ -167,7 +167,7 @@ Please cite the following paper in your publication if you are using [`**ELBMcoc
 - Exponential family Latent Block Model (**ELBM**) and Sparse version (**SELBM**) were proposed, which unify many models with various data types.
 - The proposed algorithms using the classification expectation maximization approach have a general framework based on matrix form.
 - Using six real document-word matrices and three synthetic datasets (Bernoulli, Poisson, Gaussian), we compared **ELBM** with **SELBM**.
-- All datasets and algorithm codes are available on GitHub as [`ELBMcoclust`]() repository.
+- All datasets and algorithm codes are available on GitHub as [**`ELBMcoclust`**]() repository.
 
 ## Supplementary materials
 - ore details about the **Classic3** real-text dataset are available [here](https://github.com/Saeidhoseinipour/ELBMcoclust/tree/main/Datasets#readme)
@@ -175,7 +175,7 @@ Please cite the following paper in your publication if you are using [`**ELBMcoc
 - Webscraping via API for collating text datasets from websites and ChatGPT
 
 ## Data Availability
-The code of algorithms, all datasets, additional visualizations, and materials are available at [`**ELBMcoclust**`](https://github.com/Saeidhoseinipour/ELBMcoclust) repository. Our experiments were performed on a PC (Intel(R), Core(TM) i7-10510U, 2.30 GHz), and all figures were produced in Python using the [Seaborn](https://seaborn.pydata.org/index.html) and [Matplotlib](https://matplotlib.org/) libraries.
+The code of algorithms, all datasets, additional visualizations, and materials are available at [**`ELBMcoclust`**](https://github.com/Saeidhoseinipour/ELBMcoclust) repository. Our experiments were performed on a PC (Intel(R), Core(TM) i7-10510U, 2.30 GHz), and all figures were produced in Python using the [Seaborn](https://seaborn.pydata.org/index.html) and [Matplotlib](https://matplotlib.org/) libraries.
 
 
 ## References
