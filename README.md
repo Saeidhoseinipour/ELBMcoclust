@@ -139,6 +139,7 @@ array([[101,   0,   0,   0],
 
 <img alt="Bar charts top 50 words in classic3 dataset obtined by PoissonSELBM for co-clustering, Saeid Hoseinipour, text mining, clustering" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/bar_chart_words_classic3_V4_3_3.svg">
 ## Main Contributions 
+
 In this paper, we provide a summary of the main contributions:
 
 - **Exponential family Latent Block Model (ELBM) and Sparse version (SELBM):** We propose these models, which unify many leading algorithms suited to various data types.
