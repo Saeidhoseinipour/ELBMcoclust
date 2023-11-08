@@ -151,7 +151,7 @@ In this paper, we provide a summary of the main contributions:
 
 
 ## Cite
-Please cite the following paper in your publication if you are using [`ELBMcoclust`]() in your research:
+Please cite the following paper in your publication if you are using [`**ELBMcoclust**`]() in your research:
 
 ```bibtex
  @article{ELBMcoclust, 
@@ -175,7 +175,7 @@ Please cite the following paper in your publication if you are using [`ELBMcoclu
 - Webscraping via API for collating text datasets from websites and ChatGPT
 
 ## Data Availability
-The code of algorithms, all datasets, additional visualizations, and materials are available at [**ELBMcoclust**](https://github.com/Saeidhoseinipour/ELBMcoclust) repository. Our experiments were performed on a PC (Intel(R), Core(TM) i7-10510U, 2.30 GHz), and all figures were produced in Python using the [Seaborn](https://seaborn.pydata.org/index.html) and [Matplotlib](https://matplotlib.org/) libraries.
+The code of algorithms, all datasets, additional visualizations, and materials are available at [`**ELBMcoclust**`](https://github.com/Saeidhoseinipour/ELBMcoclust) repository. Our experiments were performed on a PC (Intel(R), Core(TM) i7-10510U, 2.30 GHz), and all figures were produced in Python using the [Seaborn](https://seaborn.pydata.org/index.html) and [Matplotlib](https://matplotlib.org/) libraries.
 
 
 ## References
