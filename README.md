@@ -170,8 +170,8 @@ Please cite the following paper in your publication if you are using [`ELBMcoclu
 - All datasets and algorithm codes are available on GitHub as [`ELBMcoclust`]() repository.
 
 ## Supplementary material
-- More deatial about **Classic3** is avalible in Readme.md of datasets. 
-- For additional visulazation see here 
+- More deatial about **Classic3** is avalible [here](https://github.com/Saeidhoseinipour/ELBMcoclust/tree/main/Models)
+- For additional visulazation see [here](https://github.com/Saeidhoseinipour/ELBMcoclust/tree/main/Models) 
 - Webscraping via API for collacting text dataset from websites and ChatGPT 
 
 ## References
