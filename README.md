@@ -169,6 +169,10 @@ Please cite the following paper in your publication if you are using [`ELBMcoclu
 - Using six real document-word matrices and three synthetic datasets (Bernoulli, Poisson, Gaussian), we compared **ELBM** with **SELBM**.
 - All datasets and algorithm codes are available on GitHub as [`ELBMcoclust`]() repository.
 
+## Supplementary material
+- More deatial about **Classic3** is avalible in Readme.md of datasets. 
+- For additional visulazation see here 
+- Webscraping via API for collacting text dataset from websites and ChatGPT 
 
 ## References
 
