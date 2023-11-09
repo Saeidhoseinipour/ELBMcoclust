@@ -8,7 +8,7 @@
 [![Supplementary material](https://badgen.net/badge/Supplementary/material/orange?icon=instgrame)](https://ars.els-cdn.com/content/image/1-s2.0-S095741742301182X-mmc1.pdf)
 [![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/Purchase/PDF/brown?icon=instgrame)](https://www.sciencedirect.com/getaccess/pii/S095741742301182X/purchase)
 -->
-# `ELBMcoclust` and `SELBMcoclust`
+# **`ELBMcoclust`** and **`SELBMcoclust`**
 
 
 Sparse and Non-Sparse Exponential Family Latent Block Model for Co-clustering
@@ -170,9 +170,9 @@ Please cite the following paper in your publication if you are using [**`ELBMcoc
 - All datasets and algorithm codes are available on GitHub as [**`ELBMcoclust`**]() repository.
 
 ## Supplementary materials
-- ore details about the **Classic3** real-text dataset are available [here](https://github.com/Saeidhoseinipour/ELBMcoclust/tree/main/Datasets#readme)
-- For additional visualization, see [here](https://github.com/Saeidhoseinipour/ELBMcoclust/tree/main/Images) 
-- Webscraping via API for collating text datasets from websites and ChatGPT
+- ore details about the **Classic3** real-text dataset are available [here](https://github.com/Saeidhoseinipour/ELBMcoclust/tree/main/Datasets#readme).
+- For additional visualization, see [here](https://github.com/Saeidhoseinipour/ELBMcoclust/tree/main/Images). 
+- Webscraping via API for collating text datasets from websites and ChatGPT.
 
 ## Data Availability
 The code of algorithms, all datasets, additional visualizations, and materials are available at [**`ELBMcoclust`**](https://github.com/Saeidhoseinipour/ELBMcoclust) repository. Our experiments were performed on a PC (Intel(R), Core(TM) i7-10510U, 2.30 GHz), and all figures were produced in Python using the [Seaborn](https://seaborn.pydata.org/index.html) and [Matplotlib](https://matplotlib.org/) libraries.
