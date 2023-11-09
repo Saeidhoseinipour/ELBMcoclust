@@ -188,6 +188,6 @@ The code of algorithms, all datasets, additional visualizations, and materials a
 
 [4] [Ailem, Melissa et al, Sparse Poisson latent block model for document clustering, *IEEE Transactions on Knowledge and Data Engineering* (2017).](https://ieeexplore.ieee.org/abstract/document/7876732)
 
-[5] [Saeid, Hoseinipour et al, Orthogonal parametric non-negative matrix tri-factorization with $\alpha$-Divergence for co-clustering, *Expert Systems with Applications* (2023).](https://doi.org/10.1016/j.eswa.2023.120680)
+[5] [Fossier, Riverain et al, Semi-supervised Latent Block Model with pairwise constraints, *Machine Learning* (2022).](https://link.springer.com/article/10.1007/s10994-022-06137-4)
 
-[6] [Fossier, Riverain et al, Semi-supervised Latent Block Model with pairwise constraints, *Machine Learning* (2022).](https://link.springer.com/article/10.1007/s10994-022-06137-4)
+[5] [Saeid, Hoseinipour et al, Orthogonal parametric non-negative matrix tri-factorization with $\alpha$-Divergence for co-clustering, *Expert Systems with Applications* (2023).](https://doi.org/10.1016/j.eswa.2023.120680)
