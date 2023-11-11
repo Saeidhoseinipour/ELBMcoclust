@@ -170,7 +170,7 @@ Please cite the following paper in your publication if you are using [**`ELBMcoc
 - All datasets and algorithm codes are available on GitHub as [**`ELBMcoclust`**]() repository.
 
 ## Supplementary materials
-- ore details about the **Classic3** real-text dataset are available [here](https://github.com/Saeidhoseinipour/ELBMcoclust/tree/main/Datasets#readme).
+- More details about the **Classic3** real-text dataset are available [here](https://github.com/Saeidhoseinipour/ELBMcoclust/tree/main/Datasets#readme).
 - For additional visualization, see [here](https://github.com/Saeidhoseinipour/ELBMcoclust/tree/main/Images). 
 - Webscraping via API for collating text datasets from websites and ChatGPT.
 
