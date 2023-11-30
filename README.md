@@ -25,7 +25,7 @@ The goal of the statistical approach is to analyze the behavior of the data by c
 	\sum\limits_{k}
 	r_{.k} \log\pi_{k} +	
 	\sum\limits_{h}
-	\log\rho_{h} c^{\top}_{h.} +
+	c_{.h} \log\rho_{h}  +
 	\text{Tr}\left(
 	(\mathbf{R}^{\top} (\mathbf{S_{x}}\odot \hat{\boldsymbol{\beta}}) \mathbf{C})^{\top}
 	\mathbf{A}_{\boldsymbol{\alpha}}
