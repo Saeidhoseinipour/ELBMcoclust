@@ -171,7 +171,6 @@ Please cite the following paper in your publication if you are using [**`ELBMcoc
 ## Supplementary materials
 - More details about the **Classic3** real-text dataset are available [here](https://github.com/Saeidhoseinipour/ELBMcoclust/tree/main/Datasets#readme).
 - For additional visualization, see [here](https://github.com/Saeidhoseinipour/ELBMcoclust/tree/main/Images). 
-- Webscraping via API for collating text datasets from websites and ChatGPT.
 
 ## Data Availability
 The code of algorithms, all datasets, additional visualizations, and materials are available at [**`ELBMcoclust`**](https://github.com/Saeidhoseinipour/ELBMcoclust) repository. Our experiments were performed on a PC (Intel(R), Core(TM) i7-10510U, 2.30 GHz), and all figures were produced in Python using the [Seaborn](https://seaborn.pydata.org/index.html) and [Matplotlib](https://matplotlib.org/) libraries.
