@@ -2,7 +2,7 @@
 [![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/ELBM/Coclust/orange?icon=instgrame)](https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Models/coclust_ELBMcem.py)
 [![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/SELBM/Coclust/orange?icon=instgrame)](https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Models/coclust_SELBMcem.py)
 
-
+[![https://github.com/Saeidhoseinipour/EM-typecoclust/tree/main](https://badgen.net/badge/Supplementary/Material/red?icon=instgrame)](https://github.com/Saeidhoseinipour/EM-typecoclust/tree/main)
 
 <!--
 [![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/Orginal/Paper/pink?icon=instgrame)](https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Models/coclust_SELBMcem.py)
