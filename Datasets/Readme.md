@@ -134,7 +134,7 @@ df_1.sort_values(by="Freq_cluster", ascending=False).head(20)
 <img alt="Bar charts top 1000 words in classic3 dataset obtined by PoissonSELBM for co-clustering" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/bar_chart_all_words_classic3_top_1000.svg">
 
 
-
+<img alt="Word clouds top 60 words in classic3 dataset obtined by PoissonSELBM for co-clustering" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/WC_classic3_three_color_3_3.svg">
 
 
 
