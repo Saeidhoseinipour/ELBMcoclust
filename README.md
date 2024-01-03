@@ -182,9 +182,33 @@ Please cite the following paper in your publication if you are using [**`ELBMcoc
 ## Data Availability
 The code of algorithms, all datasets, additional visualizations, and materials are available at [**`ELBMcoclust`**](https://github.com/Saeidhoseinipour/ELBMcoclust) repository. Our experiments were performed on a PC (Intel(R), Core(TM) i7-10510U, 2.30 GHz), and all figures were produced in Python using the [Seaborn](https://seaborn.pydata.org/index.html) and [Matplotlib](https://matplotlib.org/) libraries.
 
+##  Presentation video
+
+<!--
+
+[![Presentation video for OPNMTF, Text mining, Matrix factorization, Co-clustering](https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Doc/Image/OPNMTF_video.png)](https://www.youtube.com/watch?v=LCamkfTYGyM&t=5s)
 
 
-![image](https://github.com/Saeidhoseinipour/ELBMcoclust/assets/43203342/d8f93652-4939-4d93-9a43-d7ded8c80f4b)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=LCamkfTYGyM&t=5s">
+    <img src="https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Doc/Image/OPNMTF_video.png" alt="Presentation video for OPNMTF, Text mining, Matrix factorization, Co-clustering" style="width:60%; transform: perspective(1000px) rotateY(-70deg);">
+  </a>
+</p>
+
+
+<p align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C14.09 3.81 15.76 3 17.5 3 20.58 3 23 5.42 23 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/>
+  </svg>
+</p>
+
+-->
+
+<a href="https://www.youtube.com/watch?v=LCamkfTYGyM&t=5s">
+  <img src="https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Supplementary%20material/P_OPNMTF.png" alt="Presentation video for OPNMTF, Text mining, Matrix factorization, Co-clustering" style="width: 70%;">
+</a>
+
+
 
 ## References
 
