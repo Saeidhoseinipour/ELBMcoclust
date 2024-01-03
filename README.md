@@ -183,6 +183,9 @@ Please cite the following paper in your publication if you are using [**`ELBMcoc
 The code of algorithms, all datasets, additional visualizations, and materials are available at [**`ELBMcoclust`**](https://github.com/Saeidhoseinipour/ELBMcoclust) repository. Our experiments were performed on a PC (Intel(R), Core(TM) i7-10510U, 2.30 GHz), and all figures were produced in Python using the [Seaborn](https://seaborn.pydata.org/index.html) and [Matplotlib](https://matplotlib.org/) libraries.
 
 
+
+![image](https://github.com/Saeidhoseinipour/ELBMcoclust/assets/43203342/d8f93652-4939-4d93-9a43-d7ded8c80f4b)
+
 ## References
 
 [1] [Govaert and Nadif, Clustering with block mixture models, *Pattern Recognition* (2013).](https://www.sciencedirect.com/science/article/abs/pii/S0031320302000742)
