@@ -14,6 +14,22 @@
 [![Supplementary material](https://badgen.net/badge/Supplementary/material/orange?icon=instgrame)](https://ars.els-cdn.com/content/image/1-s2.0-S095741742301182X-mmc1.pdf)
 [![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/Purchase/PDF/brown?icon=instgrame)](https://www.sciencedirect.com/getaccess/pii/S095741742301182X/purchase)
 -->
+
+## Table of Contents
+1. [ELBMcoclust Overview](#elbmcoclust-overview)
+2. [Datasets](#datasets)
+3. [Models](#models)
+4. [Confusion Matrices](#confusion-matrices)
+5. [Visualization](#visualization)
+6. [Word Cloud of PoissonSELBM for Classic3](#word-cloud-of-poissonselbm-for-classic3)
+7. [Main Contributions](#main-contributions)
+8. [Cite](#cite)
+9. [Highlights](#highlights)
+10. [Supplementary Materials](#supplementary-materials)
+11. [Data Availability](#data-availability)
+12. [Presentation Video](#presentation-video)
+13. [References](#references)
+
 # **`ELBMcoclust`** and **`SELBMcoclust`**
 
 Sparse and Non-Sparse Exponential Family Latent Block Model for Co-clustering
