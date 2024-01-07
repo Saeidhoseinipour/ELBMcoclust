@@ -220,7 +220,7 @@ The code of algorithms, all datasets, additional visualizations, and materials a
 -->
 
 <a href="">
-  <img src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Supplementary%20material/P_SELBM.png" alt="Presentation video for OPNMTF, Text mining, Matrix factorization, Co-clustering" style="width: 70%;">
+  <img src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Supplementary%20material/P_SELBM.png" alt="Presentation video for OPNMTF, Text mining, Matrix factorization, Co-clustering, Saeid Hoseinipour" style="width: 70%;">
 </a>
 
 
