@@ -178,7 +178,8 @@ Please cite the following paper in your publication if you are using [**`ELBMcoc
 ```bibtex
  @article{ELBMcoclust, 
     title={Sparse Exponential Family Latent Block Model for Co-clustering}, 
-    authors={Saeid Hoseinipour, Mina Aminghafari, Adel Mohammadpour, Mohamed Nadif}, 
+Journal={Submitted}
+  authors={Saeid Hoseinipour, Mina Aminghafari, Adel Mohammadpour, Mohamed Nadif}, 
     year={2024}
 } 
 ```
