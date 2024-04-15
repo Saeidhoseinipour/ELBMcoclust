@@ -137,7 +137,7 @@ array([[101,   0,   0,   0],
 
 
 ## Visualization
-<img alt="Sample SVG Image" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/bar_chart_all_words_classic3_top_100.svg">
+<img alt="Text mining, Matrix factorization, Co-clustering, Saeid Hoseinipour" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/bar_chart_all_words_classic3_top_100.svg">
 
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/Box_plots.png?raw=true" width="100%">
 
@@ -209,7 +209,7 @@ The code of algorithms, all datasets, additional visualizations, and materials a
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=LCamkfTYGyM&t=5s">
-    <img src="https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Doc/Image/OPNMTF_video.png" alt="Presentation video for OPNMTF, Text mining, Matrix factorization, Co-clustering" style="width:60%; transform: perspective(1000px) rotateY(-70deg);">
+    <img src="https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Doc/Image/OPNMTF_video.png" alt="Presentation video for OPNMTF, Text mining, Matrix factorization, Co-clustering, Saeid Hoseinipour9" style="width:60%; transform: perspective(1000px) rotateY(-70deg);">
   </a>
 </p>
 
