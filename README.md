@@ -9,6 +9,7 @@
 
 
 
+
 <!--
 [![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/Orginal/Paper/pink?icon=instgrame)](https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Models/coclust_SELBMcem.py)
 [![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/DOI:/1011.18363.32761/green?icon=instgrame)](https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Models/coclust_SELBMcem.py)
@@ -158,9 +159,9 @@ array([[101,   0,   0,   0],
 <!--
 ![WC_ELBMcoclust](https://github.com/Saeidhoseinipour/ELBMcoclust/assets/43203342/5f33f01d-2236-4a47-9cf0-cf904fd047c3)
 -->
-<img alt="Word clouds top 60 words in classic3 dataset obtined by PoissonSELBM for co-clustering" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/WC_classic3_three_color_3_3.svg">
+<img alt="Word clouds top 60 words in classic3 dataset obtined by PoissonSELBM for co-clustering,  Latent Block Model, Text mining, Matrix factorization, Co-clustering, Saeid Hoseinipour, clustering" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/WC_classic3_three_color_3_3.svg">
 
-<img alt="Bar charts top 50 words in classic3 dataset obtined by PoissonSELBM for co-clustering, Saeid Hoseinipour, text mining, clustering" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/bar_chart_words_classic3_V4_3_3.svg">
+<img alt="Bar charts top 50 words in classic3 dataset obtined by PoissonSELBM for co-clustering, Saeid Hoseinipour, text mining, clustering, Expoential family, Latent Block Model, Text mining, Matrix factorization, Co-clustering, Saeid Hoseinipour" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/bar_chart_words_classic3_V4_3_3.svg">
 
 ## Main Contributions 
 
@@ -202,12 +203,12 @@ The code of algorithms, all datasets, additional visualizations, and materials a
 
 <!--
 
-[![Presentation video for OPNMTF, Text mining, Matrix factorization, Co-clustering](https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Doc/Image/OPNMTF_video.png)](https://www.youtube.com/watch?v=LCamkfTYGyM&t=5s)
+[![Presentation video for OPNMTF, Text mining, Matrix factorization, Co-clustering, Saeid Hoseinipour](https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Doc/Image/OPNMTF_video.png)](https://www.youtube.com/watch?v=LCamkfTYGyM&t=5s)
 
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=LCamkfTYGyM&t=5s">
-    <img src="https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Doc/Image/OPNMTF_video.png" alt="Presentation video for OPNMTF, Text mining, Matrix factorization, Co-clustering, Saeid Hoseinipour9" style="width:60%; transform: perspective(1000px) rotateY(-70deg);">
+    <img src="https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Doc/Image/OPNMTF_video.png" alt="Expoential family, Latent Block Model, Text mining, Matrix factorization, Co-clustering, Saeid Hoseinipour" style="width:60%; transform: perspective(1000px) rotateY(-70deg);">
   </a>
 </p>
 
