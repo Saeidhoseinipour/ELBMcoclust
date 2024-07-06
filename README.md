@@ -219,13 +219,13 @@ The code of algorithms, all datasets, additional visualizations, and materials a
   </svg>
 </p>
 
--->
+
 
 <a href="">
   <img src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/Cover_SELBM.png" alt="Presentation video for OPNMTF, Text mining, Matrix factorization, Co-clustering, Saeid Hoseinipour" style="width: 70%;">
 </a>
 
-
+-->
 
 ## References
 
