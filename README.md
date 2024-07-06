@@ -199,9 +199,12 @@ Journal={Submitted}
 ## Data Availability
 The code of algorithms, all datasets, additional visualizations, and materials are available at [**`ELBMcoclust`**](https://github.com/Saeidhoseinipour/ELBMcoclust) repository. Our experiments were performed on a PC (Intel(R), Core(TM) i7-10510U, 2.30 GHz), and all figures were produced in Python using the [Seaborn](https://seaborn.pydata.org/index.html) and [Matplotlib](https://matplotlib.org/) libraries.
 
-##  Presentation video
 
 <!--
+
+##  Presentation video
+
+
 
 [![Presentation video for OPNMTF, Text mining, Matrix factorization, Co-clustering, Saeid Hoseinipour](https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Doc/Image/OPNMTF_video.png)](https://www.youtube.com/watch?v=LCamkfTYGyM&t=5s)
 
