@@ -1,8 +1,8 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](LICENSE)
 [![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/ELBM/Coclust/orange?icon=instgrame)](https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Models/coclust_ELBMcem.py)
 [![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/SELBM/Coclust/orange?icon=instgrame)](https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Models/coclust_SELBMcem.py)
-[![https://github.com/Saeidhoseinipour/EM-typecoclust/tree/main](https://badgen.net/badge/Supplementary/Material/red?icon=instgrame)](https://github.com/Saeidhoseinipour/EM-typecoclust/tree/main)
-[![https://github.com/Saeidhoseinipour/EM-typecoclust/tree/main](https://badgen.net/badge/Classic3/Dataset/blue?icon=instgrame)](https://github.com/Saeidhoseinipour/ELBMcoclust/tree/main/Datasets#readme)
+[![https://github.com/Saeidhoseinipour/EM-typecoclust/tree/main](https://badgen.net/badge/Supplementary/Material/orange?icon=instgrame)](https://github.com/Saeidhoseinipour/EM-typecoclust/tree/main)
+[![https://github.com/Saeidhoseinipour/EM-typecoclust/tree/main](https://badgen.net/badge/Classic3/Dataset/orange?icon=instgrame)](https://github.com/Saeidhoseinipour/ELBMcoclust/tree/main/Datasets#readme)
 
 
 
