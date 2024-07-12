@@ -131,10 +131,10 @@ df_1.sort_values(by="Freq_cluster", ascending=False).head(20)
 
 
 
-<img alt="Bar charts top 1000 words in classic3 dataset obtined by PoissonSELBM for co-clustering" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/bar_chart_all_words_classic3_top_1000.svg">
+<img alt="Bar charts top 1000 words in classic3 dataset obtined by PoissonSELBM for co-clustering, Saeid Hoseinipour, Co-clustering, Text mining, Latent block model, word cloud" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/bar_chart_all_words_classic3_top_1000.svg">
 
 
-<img alt="Word clouds top 60 words in classic3 dataset obtined by PoissonSELBM for co-clustering" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/WC_classic3_three_color_3_3.svg">
+<img alt="Word clouds top 60 words in classic3 dataset obtined by PoissonSELBM for co-clustering, Saeid Hoseinipour, Co-clustering, Text mining, Latent block model, word cloud" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/WC_classic3_three_color_3_3.svg">
 
 
 
@@ -142,4 +142,4 @@ df_1.sort_values(by="Freq_cluster", ascending=False).head(20)
 [1] [Dhillon, I.S.et al., Information-theoretic co-clustering, Proceedings of the ninth ACM SIGKDD International
 		Conference on Knowledge Discovery and Data Mining, 89-98, 2003](https://dl.acm.org/doi/abs/10.1145/2487575).
   
-[2] [Saeid, Hoseinipour et al, Sparse Expoential Family Latent Block Model for Co-clustering (2023), Computational Statistics and Data Analysis (preprint).]()
+[2] [Saeid, Hoseinipour et al, Sparse Expoential Family Latent Block Model for Co-clustering (2023), Advances in Data Analysis and Classification (preprint).]()
