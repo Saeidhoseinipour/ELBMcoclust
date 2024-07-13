@@ -159,6 +159,8 @@ array([[101,   0,   0,   0],
 -->
 <img alt="Word clouds top 60 words in classic3 dataset obtined by PoissonSELBM for co-clustering,  Latent Block Model, Text mining, Matrix factorization, Co-clustering, Saeid Hoseinipour, clustering" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/WC_classic3_three_color_3_3.svg">
 
+ - Top 1000 word show ![][herehttps://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/bar_chart_all_words_classic3_top_1000.svg]
+
 <img alt="Bar charts top 50 words in classic3 dataset obtined by PoissonSELBM for co-clustering, Saeid Hoseinipour, text mining, clustering, Expoential family, Latent Block Model, Text mining, Matrix factorization, Co-clustering, Saeid Hoseinipour" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/bar_chart_words_classic3_V4_3_3.svg">
 
 ## Main Contributions 
