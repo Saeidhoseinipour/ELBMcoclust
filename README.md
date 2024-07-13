@@ -136,7 +136,8 @@ array([[101,   0,   0,   0],
 ## Visualization
 <img alt="Text mining, Matrix factorization, Co-clustering, Saeid Hoseinipour" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/bar_chart_all_words_classic3_top_100.svg">
 
--  Top 1000 word show ![here](https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/bar_chart_all_words_classic3_top_1000.svg)
+<img alt="Text mining, Matrix factorization, Co-clustering, Saeid Hoseinipour" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/bar_chart_all_words_classic3_top_1000.svg">
+
 
 
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/Box_plots.png?raw=true" width="100%">
