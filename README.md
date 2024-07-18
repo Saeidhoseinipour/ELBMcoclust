@@ -49,8 +49,7 @@ The goal of the statistical approach is to analyze the behavior of the data by c
 	(\mathbf{R}^{\top} (\mathbf{S_{x}}\odot \hat{\boldsymbol{\beta}}) \mathbf{C})^{\top}
 	\mathbf{A}_{\boldsymbol{\alpha}}
 	\right)\nonumber\\
-	&- 
-	\text{Tr}\left(
+	&- \text{Tr}\left(
 	(\mathbf{R}^{\top} (\mathbf{E}_{mn}\odot
 	\hat{\boldsymbol{\beta}}) \mathbf{C})^{\top}
 	\mathbf{F}_{\boldsymbol{\alpha}}
