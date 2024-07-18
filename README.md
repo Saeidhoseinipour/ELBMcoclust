@@ -43,7 +43,7 @@ The goal of the statistical approach is to analyze the behavior of the data by c
 -  **ELBM**
 ```math
 \begin{align*}
-	L^{\text{ELBM}}(\mathbf{r},\mathbf{c},\boldsymbol{\gamma}) \propto 
+	L^{\text{ELBM}}(\mathbf{r},\mathbf{c},\boldsymbol{\gamma}) \propto& 
 	\sum\limits_{i,k}r_{ik} \log\pi_{k} +\sum\limits_{j,h}  \log\rho_{h} c^{\top}_{jh}  +
 	\text{Tr}\left(
 	(\mathbf{R}^{\top} (\mathbf{S_{x}}\odot \hat{\boldsymbol{\beta}}) \mathbf{C})^{\top}
