@@ -42,21 +42,20 @@ The goal of the statistical approach is to analyze the behavior of the data by c
 ```
 -  **ELBM**
 ```math
-	L^{\text{ELBM}}(\mathbf{r},\mathbf{c},\boldsymbol{\gamma})	\propto 
-	\sum\limits_{k}
-	r_{.k} \log\pi_{k} +	
-	\sum\limits_{h}
-	c_{.h} \log\rho_{h}  +
+\begin{align*}
+	L^{\text{ELBM}}(\mathbf{r},\mathbf{c},\boldsymbol{\gamma}) \propto 
+	\sum\limits_{i,k}r_{ik} \log\pi_{k} +\sum\limits_{j,h}  \log\rho_{h} c^{\top}_{jh}  +
 	\text{Tr}\left(
 	(\mathbf{R}^{\top} (\mathbf{S_{x}}\odot \hat{\boldsymbol{\beta}}) \mathbf{C})^{\top}
 	\mathbf{A}_{\boldsymbol{\alpha}}
-	\right)
-	- 
+	\right)\nonumber\\
+	&- 
 	\text{Tr}\left(
 	(\mathbf{R}^{\top} (\mathbf{E}_{mn}\odot
 	\hat{\boldsymbol{\beta}}) \mathbf{C})^{\top}
 	\mathbf{F}_{\boldsymbol{\alpha}}
 	\right).
+\end{align*}
 ```
 -  **SELBM**
 ```math
