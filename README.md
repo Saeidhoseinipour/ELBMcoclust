@@ -21,17 +21,16 @@
   <tr>
     <td style="vertical-align: top;">
       <ul>
-        <li><a href="#elbm-coclust-and-selbm-coclust">ELBMcoclust and SELBMcoclust Overview</a></li>
+        <li><a href="#elbm-coclust-and-selbm-coclust">ELBMcoclust and SELBMcoclust</a></li>
         <li><a href="#datasets">Datasets</a></li>
         <li><a href="#models">Models</a></li>
-        <li><a href="#confusion-matrices">Confusion Matrices</a></li>
         <li><a href="#visualization">Visualization</a></li>
         <li><a href="#word-cloud-of-poissonselbm-for-classic3">Word Cloud of PoissonSELBM for Classic3</a></li>
-        <li><a href="#main-contributions">Main Contributions</a></li>
-        <li><a href="#cite">Cite</a></li>
+	<li><a href="#main-contributions">Main Contributions</a></li>
         <li><a href="#highlights">Highlights</a></li>
         <li><a href="#supplementary-materials">Supplementary Materials</a></li>
         <li><a href="#data-availability">Data Availability</a></li>
+	<li><a href="#cite">Cite</a></li>
         <li><a href="#presentation-video">Presentation Video</a></li>
         <li><a href="#references">References</a></li>
       </ul>
@@ -145,26 +144,24 @@ array([[101,   0,   0,   0],
        [  0,   0,  178,  0],
        [  0,   0,   34, 91]], dtype=int64)
 ```
-## Confusion Matrices
-
-
-
-<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/CM_3_dataset.png?raw=true" width="100%">
-
 
 ## Visualization
+-  Confusion Matrices
+<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/CM_3_dataset.png?raw=true" width="100%">
+- Bar charts
 <img alt="Text mining, Matrix factorization, Co-clustering, Saeid Hoseinipour" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/bar_chart_all_words_classic3_top_100.svg">
-
+- Word clouds
 <img alt="Text mining, Matrix factorization, Co-clustering, Saeid Hoseinipour" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/bar_chart_all_words_classic3_top_1000.svg">
 
 
-
+- Box plots
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/Box_plots.png?raw=true" width="100%">
 
 
-
+- Scatter plots
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/Scatter_plots_2.png?raw=true" width="100%">
 
+- Swarm plots
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/swarm_plot.png?raw=true" width="100%">
 
 ## Word cloud of `PoissonSELBM` for Classic3
@@ -185,7 +182,8 @@ array([[101,   0,   0,   0],
 
 <img alt="Bar charts top 50 words in classic3 dataset obtined by PoissonSELBM for co-clustering, Saeid Hoseinipour, text mining, clustering, Expoential family, Latent Block Model, Text mining, Matrix factorization, Co-clustering, Saeid Hoseinipour" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/bar_chart_words_classic3_V4_3_3.svg">
 
-## Main Contributions 
+
+## Contributions 
 
 In this paper, we provide a summary of the main contributions:
 
@@ -194,20 +192,7 @@ In this paper, we provide a summary of the main contributions:
 - **Classification Expectation Maximization Approach:** Our proposed algorithms use this approach and have a general framework based on matrix form.
 
 - **Focus on Document-Word Matrices:** While we propose a flexible matrix formalism for different models according to different distributions, we focus on document-word matrices in this work. We evaluate ELBMs and SELBMs using six real document-word matrices and three synthetic datasets.
-
-
-## Cite
-Please cite the following paper in your publication if you are using [**`ELBMcoclust`**]() in your research:
-
-```bibtex
- @article{ELBMcoclust, 
-    title=           {A Sparse Exponential Family Latent Block Model for Co-clustering}, 
-    Journal=         {Advances in Data Analysis and Classification}
-    authors=         {Saeid Hoseinipour, Mina Aminghafari, Adel Mohammadpour, Mohamed Nadif}, 
-    year=            {2024}
-} 
-```
-
+- 
 ## Highlights
 - Exponential family Latent Block Model (**ELBM**) and Sparse version (**SELBM**) were proposed, which unify many models with various data types.
 - The proposed algorithms using the classification expectation maximization approach have a general framework based on matrix form.
@@ -221,7 +206,17 @@ Please cite the following paper in your publication if you are using [**`ELBMcoc
 ## Data Availability
 The code of algorithms, all datasets, additional visualizations, and materials are available at [**`ELBMcoclust`**](https://github.com/Saeidhoseinipour/ELBMcoclust) repository. Our experiments were performed on a PC (Intel(R), Core(TM) i7-10510U, 2.30 GHz), and all figures were produced in Python using the [Seaborn](https://seaborn.pydata.org/index.html) and [Matplotlib](https://matplotlib.org/) libraries.
 
+## Cite
+Please cite the following paper in your publication if you are using [**`ELBMcoclust`**]() in your research:
 
+```bibtex
+ @article{ELBMcoclust, 
+    title=           {A Sparse Exponential Family Latent Block Model for Co-clustering}, 
+    Journal=         {Advances in Data Analysis and Classification}
+    authors=         {Saeid Hoseinipour, Mina Aminghafari, Adel Mohammadpour, Mohamed Nadif}, 
+    year=            {2024}
+} 
+```
 <!--
 
 ##  Presentation video
