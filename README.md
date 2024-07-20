@@ -21,7 +21,7 @@
   <tr>
     <td style="vertical-align: top;">
       <ul>
-        <li><a href="#elbmcoclust-overview">ELBMcoclust Overview</a></li>
+        <li><a href="#elbm-coclust-and-selbm-coclust">ELBMcoclust and SELBMcoclust Overview</a></li>
         <li><a href="#datasets">Datasets</a></li>
         <li><a href="#models">Models</a></li>
         <li><a href="#confusion-matrices">Confusion Matrices</a></li>
