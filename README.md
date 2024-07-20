@@ -146,22 +146,21 @@ array([[101,   0,   0,   0],
 ```
 
 ## Visualization
--  Confusion Matrices
+-  **Confusion Matrices**
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/CM_3_dataset.png?raw=true" width="100%">
-- Bar charts
+- **Bar charts**
 <img alt="Text mining, Matrix factorization, Co-clustering, Saeid Hoseinipour" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/bar_chart_all_words_classic3_top_100.svg">
-- Word clouds
 <img alt="Text mining, Matrix factorization, Co-clustering, Saeid Hoseinipour" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/bar_chart_all_words_classic3_top_1000.svg">
 
 
-- Box plots
+- **Box plots**
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/Box_plots.png?raw=true" width="100%">
 
 
-- Scatter plots
+- **Scatter plots**
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/Scatter_plots_2.png?raw=true" width="100%">
 
-- Swarm plots
+- **Swarm plots**
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/swarm_plot.png?raw=true" width="100%">
 
 ## Word cloud of `PoissonSELBM` for Classic3
