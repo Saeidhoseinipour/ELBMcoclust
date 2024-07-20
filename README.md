@@ -15,20 +15,43 @@
 [![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/Purchase/PDF/brown?icon=instgrame)](https://www.sciencedirect.com/getaccess/pii/S095741742301182X/purchase)
 -->
 
+# Your Project Title
+
 ## Table of Contents
-1. [ELBMcoclust Overview](#elbmcoclust-overview)
-2. [Datasets](#datasets)
-3. [Models](#models)
-4. [Confusion Matrices](#confusion-matrices)
-5. [Visualization](#visualization)
-6. [Word Cloud of PoissonSELBM for Classic3](#word-cloud-of-poissonselbm-for-classic3)
-7. [Main Contributions](#main-contributions)
-8. [Cite](#cite)
-9. [Highlights](#highlights)
-10. [Supplementary Materials](#supplementary-materials)
-11. [Data Availability](#data-availability)
-12. [Presentation Video](#presentation-video)
-13. [References](#references)
+
+<table>
+  <tr>
+    <td style="vertical-align: top;">
+      <ul>
+        <li><a href="#elbmcoclust-overview">ELBMcoclust Overview</a></li>
+        <li><a href="#datasets">Datasets</a></li>
+        <li><a href="#models">Models</a></li>
+        <li><a href="#confusion-matrices">Confusion Matrices</a></li>
+        <li><a href="#visualization">Visualization</a></li>
+        <li><a href="#word-cloud-of-poissonselbm-for-classic3">Word Cloud of PoissonSELBM for Classic3</a></li>
+        <li><a href="#main-contributions">Main Contributions</a></li>
+        <li><a href="#cite">Cite</a></li>
+        <li><a href="#highlights">Highlights</a></li>
+        <li><a href="#supplementary-materials">Supplementary Materials</a></li>
+        <li><a href="#data-availability">Data Availability</a></li>
+        <li><a href="#presentation-video">Presentation Video</a></li>
+        <li><a href="#references">References</a></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/OPNMTF.png" alt="Saeid Hoseinipour" style="width:250px; box-shadow: 5px 5px 15px rgba(0,0,0,0.3); transform: rotateY(10deg);">
+    </td>
+    <td>
+      <img src="https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Supplementary%20material/P_OPNMTF.png" alt="Saeid Hoseinipour" style="width:200px; box-shadow: 5px 5px 15px rgba(0,0,0,0.3); transform: rotateY(-10deg);">
+    </td>
+  </tr>
+</table>
+
+## Contact
+
+If you have any questions or need further information, feel free to contact me:
+
+- **Email:** [saeidhoseinipour9@gmail.com](mailto:saeidhoseinipour9@gmail.com)
 
 # **`ELBMcoclust`** and **`SELBMcoclust`**
 
