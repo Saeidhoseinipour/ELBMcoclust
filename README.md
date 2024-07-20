@@ -26,7 +26,7 @@
         <li><a href="#models">Models</a></li>
         <li><a href="#visualization">Visualization</a></li>
         <li><a href="#word-cloud-of-poissonselbm-for-classic3">Word Cloud of PoissonSELBM for Classic3</a></li>
-	<li><a href="#main-contributions">Main Contributions</a></li>
+	<li><a href="#contributions">Contributions</a></li>
         <li><a href="#highlights">Highlights</a></li>
         <li><a href="#supplementary-materials">Supplementary Materials</a></li>
         <li><a href="#data-availability">Data Availability</a></li>
