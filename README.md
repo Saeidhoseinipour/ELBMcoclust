@@ -46,7 +46,7 @@
 
 ## Contact
 
-If you have any questions or need further information, feel free to contact me:
+Feel free to contact me:
 
 - **Email:** [saeidhoseinipour9@gmail.com](mailto:saeidhoseinipour9@gmail.com)
 
@@ -192,7 +192,7 @@ In this paper, we provide a summary of the main contributions:
 - **Classification Expectation Maximization Approach:** Our proposed algorithms use this approach and have a general framework based on matrix form.
 
 - **Focus on Document-Word Matrices:** While we propose a flexible matrix formalism for different models according to different distributions, we focus on document-word matrices in this work. We evaluate ELBMs and SELBMs using six real document-word matrices and three synthetic datasets.
-- 
+
 ## Highlights
 - Exponential family Latent Block Model (**ELBM**) and Sparse version (**SELBM**) were proposed, which unify many models with various data types.
 - The proposed algorithms using the classification expectation maximization approach have a general framework based on matrix form.
