@@ -5,9 +5,9 @@ ELBMcem
 """
 
 # Author: Saeid Hoseinipour <saeidhoseinipour9@gmail.com>
-#                           <saeidhoseinipour@aut.ac.ir>
+                            <saeidhoseinipour@aut.ac.ir>
 
-# License: 
+# License: MIT License
 
 import itertools
 from math import *
@@ -23,9 +23,7 @@ from sklearn.utils import check_random_state, check_array
 from ..initialization import random_init
 from ..io.input_checking import check_positive
 import timeit
-
-
-# from pylab import *
+from pylab import *
 
 
 class CoclustELBMcem:
@@ -51,7 +49,7 @@ class CoclustELBMcem:
         number generator.
     tol : float, default: 1e-9
         Relative tolerance with regards to criterion to declare convergence
-    Model : str, default: "Poisson"     ("binary", "Poisson", "Normal", "Beta") 
+    Model : str, default: "Poisson"     ("Poisson", "Bernoulli", "Gaussian", "Gamma",  "Beta", "Lognormal") 
         
 
     Attributes
@@ -82,7 +80,7 @@ class CoclustELBMcem:
         self.A_alpha = None
         self.criterions = []
         self.criterion = -np.inf
-        self.model = model    # Model = ("binary", "Poisson", "Normal", "Beta") 
+        self.model = model    # Model = ("Bernoulli", "Poisson", "Gaussian", "Beta") 
         self.runtime = None
 
     def fit(self, X, y=None):
@@ -162,7 +160,7 @@ class CoclustELBMcem:
            beta = X@E_mn.T@X
            S = sp.lil_matrix(X)
            beta = sp.lil_matrix(beta)
-        elif (self.model == "Normal"):
+        elif (self.model == "Gaussian"):
            beta = E_mn
            S = sp.lil_matrix(X)
         elif (self.model == "Bernoulli"):
@@ -220,7 +218,7 @@ class CoclustELBMcem:
            A_alpha = sp.csr_matrix(D_A_F)
            A_alpha.data = np.log((A_alpha).data)
            F_alpha = sp.csr_matrix(D_A_F)
-        elif (self.model == "Normal"):
+        elif (self.model == "Gaussian"):
            A_alpha = sp.csr_matrix(D_A_F)
            F_alpha = sp.csr_matrix(D_A_F)**2
         elif (self.model == "Bernoulli"):
@@ -281,7 +279,7 @@ class CoclustELBMcem:
                A_alpha = sp.csr_matrix(D_A_F)
                A_alpha.data = np.log((A_alpha).data)
                F_alpha = sp.csr_matrix(D_A_F)
-            elif (self.model == "Normal"):
+            elif (self.model == "Gaussian"):
                A_alpha = sp.csr_matrix(D_A_F)
                F_alpha = sp.csr_matrix(D_A_F)**2
             elif (self.model == "Bernoulli"):
@@ -344,7 +342,7 @@ class CoclustELBMcem:
                A_alpha.data = np.log((A_alpha).data)
                F_alpha = sp.csr_matrix(D_A_F)
                print(A_alpha,F_alpha)
-            elif (self.model == "Normal"):
+            elif (self.model == "Gaussian"):
                A_alpha = sp.csr_matrix(D_A_F)
                F_alpha = sp.csr_matrix(D_A_F)**2
             elif (self.model == "Bernoulli"):
