@@ -3,6 +3,7 @@
 """
 ELBMcem
 """
+# Under paper: A Sparse Exponential Family Latent Block Model for Co-clustering
 
 # Author: Saeid Hoseinipour <saeidhoseinipour9@gmail.com>
                             <saeidhoseinipour@aut.ac.ir>
@@ -80,7 +81,7 @@ class CoclustELBMcem:
         self.A_alpha = None
         self.criterions = []
         self.criterion = -np.inf
-        self.model = model    # Model = ("Bernoulli", "Poisson", "Gaussian", "Beta") 
+        self.model = model             # Model = ("Poisson", "Bernoulli", "Gaussian", "Gamma",  "Beta", "Lognormal")
         self.runtime = None
 
     def fit(self, X, y=None):
