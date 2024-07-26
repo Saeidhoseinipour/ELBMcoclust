@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
 
 """
-ELBMcem
+ELBMcem:  Exponential Latent Block Model classification expectation–maximization
 """
 
-# Author: Saeid Hoseinipour <saeidhoseinipour9@gmail.com>
-                            <saeidhoseinipour@aut.ac.ir>
+#         Author:   Saeid Hoseinipour          Emails: saeidhoseinipour9@gmail.com
+#                                                      saeidhoseinipour@aut.ac.ir
 
 # License: MIT License
 
