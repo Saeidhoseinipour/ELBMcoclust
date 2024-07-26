@@ -3,7 +3,6 @@
 """
 ELBMcem
 """
-# Under paper: A Sparse Exponential Family Latent Block Model for Co-clustering
 
 # Author: Saeid Hoseinipour <saeidhoseinipour9@gmail.com>
                             <saeidhoseinipour@aut.ac.ir>
