@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 """
-SELBMcem : Sparse Exponential  Latent Block Model classification em
+SELBMcem:  Sparse Exponential Latent Block Model classification expectation–maximization
 """
 
 #          Author: Saeid Hoseinipour            Emails: saeidhoseinipour9@gmail.com
