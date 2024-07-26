@@ -1,12 +1,13 @@
 # -*- coding: utf-8 -*-
 
 """
-SELBMcem : Sparse Exponential  Latent Block Model Classification EM
+SELBMcem : Sparse Exponential  Latent Block Model classification em
 """
 
-# Author: Saeid Hoseinipour     <saeidhoseinipour@aut.ac.ir>
-#                               <saeidhoseinipour9@gmail.com>
-#                           
+#          Author: Saeid Hoseinipour            Emails: saeidhoseinipour9@gmail.com
+#                                                       saeidhoseinipour@aut.ac.ir
+                                
+                           
 
 # License: 
 
@@ -53,7 +54,7 @@ class CoclustSELBMcem:
         Relative tolerance with regards to criterion to declare convergence
     model : str, default: "Poisson"     
         The name of distubtion based on (Sparse)Exponential Family Latent Block Model such  as:
-        "Poisson", "Bernoulli", "Gaussian", "Gamma", "Beta", "Log"".
+        "Poisson", "Bernoulli", "Gaussian", "Gamma", "Beta", "Lognormal"".
         
 
     Attributes
