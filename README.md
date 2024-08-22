@@ -23,7 +23,7 @@
       <ul>
         <li><a href="#elbm-coclust-and-selbm-coclust">ELBMcoclust and SELBMcoclust</a></li>
         <li><a href="#datasets">Datasets</a></li>
-        <li><a href="#models">Models</a></li>
+        <li><a href="#Implement">Implement</a></li>
         <li><a href="#visualization">Visualization</a></li>
         <li><a href="#word-cloud-of-poissonselbm-for-classic3">Word Cloud of PoissonSELBM for Classic3</a></li>
 	<li><a href="#contributions">Contributions</a></li>
@@ -112,7 +112,7 @@ The goal of the statistical approach is to analyze the behavior of the data by c
 
 * Balance: (\#documents in the smallest class)/(\#documents in the largest class)
 
-## [Models](https://github.com/Saeidhoseinipour/ELBMcoclust/tree/main/Models)
+## [Implement](https://github.com/Saeidhoseinipour/ELBMcoclust/tree/main/Models)
 ```python
 from ELBMcoclust.Models.coclust_ELBMcem import CoclustELBMcem
 from ELBMcoclust.Models.coclust_SELBMcem import CoclustSELBMcem
