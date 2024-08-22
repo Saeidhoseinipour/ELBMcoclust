@@ -160,7 +160,7 @@ array([[101,   0,   0,   0],
 - **Swarm plots**
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/swarm_plot.png?raw=true" width="100%">
 
-## Word cloud of `PoissonSELBM` for Classic3
+### Word cloud of `PoissonSELBM` for Classic3
 
 <!-- 
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Results/SELBM_Classic3.gif" width="45%">
