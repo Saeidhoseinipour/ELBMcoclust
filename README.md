@@ -7,7 +7,6 @@
 
 
 
-
 <!--
 [![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/Orginal/Paper/pink?icon=instgrame)](https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Models/coclust_SELBMcem.py)
 [![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/DOI:/1011.18363.32761/green?icon=instgrame)](https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Models/coclust_SELBMcem.py)
@@ -160,7 +159,7 @@ array([[101,   0,   0,   0],
 - **Swarm plots**
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/swarm_plot.png?raw=true" width="100%">
 
-### Word cloud of `PoissonSELBM` for Classic3
+- **Reorganized 3*3 Word cloud of `PoissonSELBM` for Classic3**
 
 <!-- 
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Results/SELBM_Classic3.gif" width="45%">
@@ -175,7 +174,8 @@ array([[101,   0,   0,   0],
 -->
 <img alt="Word clouds top 60 words in classic3 dataset obtined by PoissonSELBM for co-clustering,  Latent Block Model, Text mining, Matrix factorization, Co-clustering, Saeid Hoseinipour, clustering" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/WC_classic3_three_color_3_3.svg">
 
-
+- **Reorganized 3*3 Bar Chart of `PoissonSELBM` for Classic3**
+  
 <img alt="Bar charts top 50 words in classic3 dataset obtined by PoissonSELBM for co-clustering, Saeid Hoseinipour, text mining, clustering, Expoential family, Latent Block Model, Text mining, Matrix factorization, Co-clustering, Saeid Hoseinipour" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/bar_chart_words_classic3_V4_3_3.svg">
 
 
