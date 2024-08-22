@@ -102,7 +102,7 @@ The goal of the statistical approach is to analyze the behavior of the data by c
 
 
 | **Datasets**    | **Topics**                                | **#Classes** | **(#Documents, #Words)** | **Sparsity(%0)** | **Balance** |
-|-----------------|-------------------------------------------|--------------|---------------------------------|-------------------|-------------|
+|-----------------|-------------------------------------------|--------------|-------------------------------------|-------------------|-------------|
 |  [Classic3](https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Datasets/classic3.mat)        | Medical, Information retrieval, Aeronautical systems | 3            | (3891, 4303)               | 98.95            | 0.71        |
 | [CSTR](https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Datasets/cstr.mat)            | Robotics/Vision, Systems, Natural Language Processing, Theory | 4            | (475, 1000)                | 96.60            | 0.399       |
 | [WebACE](https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Datasets/WebACE..mat)          | 20 different topics from WebACE project | 20           | (2340, 1000)               | 91.83            | 0.169       |
