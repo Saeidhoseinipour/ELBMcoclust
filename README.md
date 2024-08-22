@@ -44,11 +44,7 @@
   </tr>
 </table>
 
-## Contact
 
-Feel free to contact me:
-
-- **Email:** [saeidhoseinipour9@gmail.com](mailto:saeidhoseinipour9@gmail.com)
 
 # **`ELBMcoclust`** and **`SELBMcoclust`**
 
