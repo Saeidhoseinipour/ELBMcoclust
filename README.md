@@ -30,7 +30,6 @@
         <li><a href="#supplementary-materials">Supplementary Materials</a></li>
         <li><a href="#data-availability">Data Availability</a></li>
 	<li><a href="#cite">Cite</a></li>
-        <li><a href="#presentation-video">Presentation Video</a></li>
         <li><a href="#references">References</a></li>
       </ul>
     </td>
