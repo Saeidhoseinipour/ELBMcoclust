@@ -132,10 +132,10 @@ from sklearn.metrics import confusion_matrix
 confusion_matrix(true_labels, np.sort(ELBM.row_labels_))
 
 
-array([[101,   0,   0,   0],
-       [  4,  52,  15,   0],
-       [  0,   0,  178,  0],
-       [  0,   0,   34, 91]], dtype=int64)
+       [[101,   0,   0,   0],
+        [  4,  52,  15,   0],
+        [  0,   0,  178,  0],
+        [  0,   0,   34, 91]]   
 ```
 
 ## Visualization
