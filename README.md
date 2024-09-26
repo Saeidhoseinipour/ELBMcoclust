@@ -180,6 +180,7 @@ confusion_matrix(true_labels, np.sort(ELBM.row_labels_))
 <img alt="Bar charts top 50 words in classic3 dataset obtined by PoissonSELBM for co-clustering, Saeid Hoseinipour, text mining, clustering, Expoential family, Latent Block Model, Text mining, Matrix factorization, Co-clustering, Saeid Hoseinipour" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/bar_chart_words_classic3_V4_3_3.svg">
 
 
+
 ## Contributions 
 
 In this paper, we provide a summary of the main contributions:
