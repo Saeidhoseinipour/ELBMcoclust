@@ -222,6 +222,8 @@ Please cite the following paper in your publication if you are using [**`ELBMcoc
     year=            {2024}
 } 
 ```
+![ADAC Model](https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/ADAC.png)
+
 <!--
 
 ##  Presentation video
