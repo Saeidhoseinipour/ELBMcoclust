@@ -257,9 +257,15 @@ Please cite the following paper in your publication if you are using [**`ELBMcoc
 ## References
 [1] [Ailem, Melissa et al, Sparse Poisson latent block model for document clustering, *IEEE Transactions on Knowledge and Data Engineering* (2017a).](https://ieeexplore.ieee.org/abstract/document/7876732)
 
+
+
 [2] [Ailem, Melissa et al, Model-based co-clustering for the effective handling of sparse data, *Pattern Recognition* (2017b)](https://doi.org/10.1016/j.patcog.2017.06.005) 
 
+
+
 [3] [Govaert and Nadif, Clustering with block mixture models, *Pattern Recognition* (2013).](https://www.sciencedirect.com/science/article/abs/pii/S0031320302000742)
+
+
 
 [4] [Govaert and Nadif, Block clustering with Bernoulli mixture models: Comparison of different approaches, *Computational Statistics and Data Analysis* (2008).](https://www.sciencedirect.com/science/article/abs/pii/S0167947307003441)
 
@@ -277,6 +283,6 @@ Please cite the following paper in your publication if you are using [**`ELBMcoc
 
 [11] [Fossier, Riverain et al, Semi-supervised Latent Block Model with pairwise constraints, *Machine Learning* (2022).](https://link.springer.com/article/10.1007/s10994-022-06137-4)
 
-[12]  [Hartigan, Direct clustering of a data matrix, *Journal of the American Statistical Association* (1972)](https://doi.org/10.1080/01621459.1972.1048121)
+[12]  [Hartigan, Direct clustering of a data matrix, *Journal of the American Statistical Association* (1972)](https://doi.org/10.1080/01621459.1972.1048121)
 
 [13] [Saeid, Hoseinipour et al, Orthogonal parametric non-negative matrix tri-factorization with $\alpha$-Divergence for co-clustering, *Expert Systems with Applications* (2023).](https://doi.org/10.1016/j.eswa.2023.120680)
