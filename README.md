@@ -255,18 +255,28 @@ Please cite the following paper in your publication if you are using [**`ELBMcoc
 -->
 
 ## References
+[1] [Ailem, Melissa et al, Sparse Poisson latent block model for document clustering, *IEEE Transactions on Knowledge and Data Engineering* (2017a).](https://ieeexplore.ieee.org/abstract/document/7876732)
 
-[1] [Govaert and Nadif, Clustering with block mixture models, *Pattern Recognition* (2013).](https://www.sciencedirect.com/science/article/abs/pii/S0031320302000742)
+[2] [Ailem, Melissa et al, Model-based co-clustering for the effective handling of sparse data, *Pattern Recognition* (2017b)](https://doi.org/10.1016/j.patcog.2017.06.005) 
 
-[2] [Govaert and Nadif, Block clustering with Bernoulli mixture models: Comparison of different approaches, *Computational Statistics and Data Analysis* (2008).](https://www.sciencedirect.com/science/article/abs/pii/S0167947307003441)
+[3] [Govaert and Nadif, Clustering with block mixture models, *Pattern Recognition* (2013).](https://www.sciencedirect.com/science/article/abs/pii/S0031320302000742)
 
-[3] [Rodolphe Priam et al, Topographic Bernoulli block mixture mapping for binary tables, *Pattern Analysis and Applications* (2014).](https://link.springer.com/article/10.1007/s10044-014-0368-8)
+[4] [Govaert and Nadif, Block clustering with Bernoulli mixture models: Comparison of different approaches, *Computational Statistics and Data Analysis* (2008).](https://www.sciencedirect.com/science/article/abs/pii/S0167947307003441)
 
-[4] [Ailem, Melissa et al, Sparse Poisson latent block model for document clustering, *IEEE Transactions on Knowledge and Data Engineering* (2017a).](https://ieeexplore.ieee.org/abstract/document/7876732)
+[5] [Govaert and Nadif, Latent block model for contingency table, *Communications in Statistics - Theory and Methods* (2010).](https://doi.org/10.1080/03610920903140197)
 
-[] [Ailem, Melissa et al, Model-based co-clustering for the effective handling of sparse data, *Pattern Recognition* (2017b)](https://doi.org/10.1016/j.patcog.2017.06.005) 
+[6] [Govaert and Nadif, Co-clustering: models, algorithms and applications, *John Wiley and Sons* (2013).](https://doi.org/nmOgI1bz_1XW_hItrgRrzcDzc10)
 
+[7] [Rodolphe Priam et al, Topographic Bernoulli block mixture mapping for binary tables, *Pattern Analysis and Applications* (2014).](https://link.springer.com/article/10.1007/s10044-014-0368-8)
 
-[5] [Fossier, Riverain et al, Semi-supervised Latent Block Model with pairwise constraints, *Machine Learning* (2022).](https://link.springer.com/article/10.1007/s10994-022-06137-4)
+[8] [DasGupta, The exponential family and statistical applications, *Probability for Statistics and Machine Learning: Fundamentals and Advanced Topics* (2011).](https://doi.org/10.1007/978-1-4419-9634-3_18)
 
-[6] [Saeid, Hoseinipour et al, Orthogonal parametric non-negative matrix tri-factorization with $\alpha$-Divergence for co-clustering, *Expert Systems with Applications* (2023).](https://doi.org/10.1016/j.eswa.2023.120680)
+[9] [Del Buono et al, Non-negative matrix tri-factorization for co-clustering: an analysis of the block matrix, *Information Sciences* (2015).](https://doi.org/10.1016/j.ins.2014.12.058)
+
+[10] [Laclau et al, Diagonal latent block model for binary data, *Statistics and Computing* (2017).](https://doi.org/10.1007/s11222-016-9677-7)
+
+[11] [Fossier, Riverain et al, Semi-supervised Latent Block Model with pairwise constraints, *Machine Learning* (2022).](https://link.springer.com/article/10.1007/s10994-022-06137-4)
+
+[12]  [Hartigan, Direct clustering of a data matrix, *Journal of the American Statistical Association* (1972)](https://doi.org/10.1080/01621459.1972.1048121)
+
+[13] [Saeid, Hoseinipour et al, Orthogonal parametric non-negative matrix tri-factorization with $\alpha$-Divergence for co-clustering, *Expert Systems with Applications* (2023).](https://doi.org/10.1016/j.eswa.2023.120680)
