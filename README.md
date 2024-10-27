@@ -262,7 +262,10 @@ Please cite the following paper in your publication if you are using [**`ELBMcoc
 
 [3] [Rodolphe Priam et al, Topographic Bernoulli block mixture mapping for binary tables, *Pattern Analysis and Applications* (2014).](https://link.springer.com/article/10.1007/s10044-014-0368-8)
 
-[4] [Ailem, Melissa et al, Sparse Poisson latent block model for document clustering, *IEEE Transactions on Knowledge and Data Engineering* (2017).](https://ieeexplore.ieee.org/abstract/document/7876732)
+[4] [Ailem, Melissa et al, Sparse Poisson latent block model for document clustering, *IEEE Transactions on Knowledge and Data Engineering* (2017a).](https://ieeexplore.ieee.org/abstract/document/7876732)
+
+[] [Ailem, Melissa et al, Model-based co-clustering for the effective handling of sparse data, *Pattern Recognition* (2017b)](https://doi.org/10.1016/j.patcog.2017.06.005) 
+
 
 [5] [Fossier, Riverain et al, Semi-supervised Latent Block Model with pairwise constraints, *Machine Learning* (2022).](https://link.springer.com/article/10.1007/s10994-022-06137-4)
 
