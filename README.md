@@ -1,6 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](LICENSE)
 [![](https://badgen.net/badge/DOI/10.1007-s11634-024-00608-3/orange?icon=instgrame)](https://link.springer.com/article/10.1007/s11634-024-00608-3#rightslink)
-
+[![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/Purchase/PDF/orange?icon=instgrame)](https://order.springer.com/public/cart?message=AddToCartSuccess)
 [![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/ELBM/Coclust/orange?icon=instgrame)](https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Models/coclust_ELBMcem.py)
 [![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/SELBM/Coclust/orange?icon=instgrame)](https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Models/coclust_SELBMcem.py)
 [![https://github.com/Saeidhoseinipour/EM-typecoclust/tree/main](https://badgen.net/badge/Supplementary/Material/orange?icon=instgrame)](https://github.com/Saeidhoseinipour/EM-typecoclust/tree/main)
@@ -210,11 +210,15 @@ The code of algorithms, all datasets, additional visualizations, and materials a
 ## Cite
 Please cite the following paper in your publication if you are using [**`ELBMcoclust`**]() in your research:
 
+    
 ```bibtex
  @article{ELBMcoclust, 
     title=           {A Sparse Exponential Family Latent Block Model for Co-clustering}, 
     Journal=         {Advances in Data Analysis and Classification}
-    authors=         {Saeid Hoseinipour, Mina Aminghafari, Adel Mohammadpour, Mohamed Nadif}, 
+    authors=         {Saeid Hoseinipour, Mina Aminghafari, Adel Mohammadpour, Mohamed Nadif},
+    volume=          {}, 
+    number=          {},
+    DOI=             {https://doi.org/10.1007/s11634-024-00608-3}    
     year=            {2024}
 } 
 ```
