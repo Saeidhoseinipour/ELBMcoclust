@@ -1,4 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](LICENSE)
+[![](https://badgen.net/badge/DOI/https://doi.org/10.1007/s11634-024-00608-3/orange?icon=instgrame)](https://link.springer.com/article/10.1007/s11634-024-00608-3#rightslink)
+
 [![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/ELBM/Coclust/orange?icon=instgrame)](https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Models/coclust_ELBMcem.py)
 [![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/SELBM/Coclust/orange?icon=instgrame)](https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Models/coclust_SELBMcem.py)
 [![https://github.com/Saeidhoseinipour/EM-typecoclust/tree/main](https://badgen.net/badge/Supplementary/Material/orange?icon=instgrame)](https://github.com/Saeidhoseinipour/EM-typecoclust/tree/main)
