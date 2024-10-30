@@ -224,6 +224,7 @@ Please cite the following paper in your publication if you are using [**`ELBMcoc
     authors=         {Saeid Hoseinipour, Mina Aminghafari, Adel Mohammadpour, Mohamed Nadif},
     volume=          {}, 
     number=          {},
+    pages=           {1-37},
     DOI=             {https://doi.org/10.1007/s11634-024-00608-3}    
     year=            {2024}
 } 
