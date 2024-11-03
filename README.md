@@ -218,8 +218,6 @@ Please cite the following paper in your publication if you are using [**`ELBMcoc
     title=           {A Sparse Exponential Family Latent Block Model for Co-clustering}, 
     Journal=         {Advances in Data Analysis and Classification}
     authors=         {Saeid Hoseinipour, Mina Aminghafari, Adel Mohammadpour, Mohamed Nadif},
-    volume=          {}, 
-    number=          {},
     pages=           {1-37},
     DOI=             {https://doi.org/10.1007/s11634-024-00608-3}    
     year=            {2024}
@@ -265,9 +263,7 @@ Please cite the following paper in your publication if you are using [**`ELBMcoc
 [2] [Ailem, Melissa et al, Model-based co-clustering for the effective handling of sparse data, *Pattern Recognition* (2017b)](https://doi.org/10.1016/j.patcog.2017.06.005) 
 
 
-
 [3] [Govaert and Nadif, Clustering with block mixture models, *Pattern Recognition* (2013).](https://www.sciencedirect.com/science/article/abs/pii/S0031320302000742)
-
 
 
 [4] [Govaert and Nadif, Block clustering with Bernoulli mixture models: Comparison of different approaches, *Computational Statistics and Data Analysis* (2008).](https://www.sciencedirect.com/science/article/abs/pii/S0167947307003441)
