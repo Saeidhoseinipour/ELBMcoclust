@@ -45,9 +45,8 @@
   </tr>
 </table>
 
-![{99CE8878-C26D-4C98-9A9E-5AB93DFB2599}](https://github.com/user-attachments/assets/92f7f27c-21e1-49c2-a116-a0180bdcd02e)
 
-<img alt="Screenshot: 'README.md'" src="https://github.com/user-attachments/assets/92f7f27c-21e1-49c2-a116-a0180bdcd02e?raw=true" width="100%">
+<img alt="Screenshot: 'README.md'" src="https://github.com/user-attachments/assets/92f7f27c-21e1-49c2-a116-a0180bdcd02e?raw=true" width="60%">
 
 
 # **`ELBMcoclust`** and **`SELBMcoclust`**
