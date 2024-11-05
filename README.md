@@ -8,6 +8,7 @@
 [![](https://badgen.net/badge/Research/gate/orange?icon=instgrame)](https://www.researchgate.net/publication/385282893_A_sparse_exponential_family_latent_block_model_for_co-clustering)
 
 
+[![](https://badgen.net/badge/ivy/sci/orange?icon=instgrame)](https://www.ivysci.com/articles/5816491__A_sparse_exponential_family_latent_block_model_for_coclustering)
 
 
 
