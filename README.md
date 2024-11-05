@@ -8,8 +8,6 @@
 [![](https://badgen.net/badge/Research/gate/orange?icon=instgrame)](https://www.researchgate.net/publication/385282893_A_sparse_exponential_family_latent_block_model_for_co-clustering)
 
 
-(https://github.com/Saeidhoseinipour/ELBMcoclust/tree/main/Datasets#readme)
-
 
 
 
