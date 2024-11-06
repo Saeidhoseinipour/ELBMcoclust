@@ -4,10 +4,8 @@
 [![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/ELBM/Coclust/orange?icon=instgrame)](https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Models/coclust_ELBMcem.py)
 [![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/SELBM/Coclust/orange?icon=instgrame)](https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Models/coclust_SELBMcem.py)
 [![https://github.com/Saeidhoseinipour/EM-typecoclust/tree/main](https://badgen.net/badge/Supplementary/Material/orange?icon=instgrame)](https://github.com/Saeidhoseinipour/EM-typecoclust/tree/main)
-[![https://github.com/Saeidhoseinipour/EM-typecoclust/tree/main](https://badgen.net/badge/Classic3/Dataset/orange?icon=instgrame)]
+[![https://github.com/Saeidhoseinipour/EM-typecoclust/tree/main](https://badgen.net/badge/Classic3/Dataset/orange?icon=instgrame)]()
 [![](https://badgen.net/badge/Research/gate/orange?icon=instgrame)](https://www.researchgate.net/publication/385282893_A_sparse_exponential_family_latent_block_model_for_co-clustering)
-
-
 [![](https://badgen.net/badge/ivy/sci/orange?icon=instgrame)](https://www.ivysci.com/articles/5816491__A_sparse_exponential_family_latent_block_model_for_coclustering)
 
 
