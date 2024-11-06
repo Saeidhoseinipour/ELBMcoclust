@@ -209,7 +209,9 @@ In this paper, we provide a summary of the main contributions:
 
 ## Supplementary materials
 - More details about the **Classic3** real-text dataset are available [here](https://github.com/Saeidhoseinipour/ELBMcoclust/tree/main/Datasets#readme).
-- For additional visualization, see [here](https://github.com/Saeidhoseinipour/ELBMcoclust/tree/main/Images). 
+- For additional visualization, see [here](https://github.com/Saeidhoseinipour/ELBMcoclust/tree/main/Images).
+- Orginal paper is available on [Advances in Data Analysis and Classification (ADAC)](https://link.springer.com/article/10.1007/s11634-024-00608-3#rightslink).
+  
 
 ## Data Availability
 The code of algorithms, all datasets, additional visualizations, and materials are available at [**`ELBMcoclust`**](https://github.com/Saeidhoseinipour/ELBMcoclust) repository. Our experiments were performed on a PC (Intel(R), Core(TM) i7-10510U, 2.30 GHz), and all figures were produced in Python using the [Seaborn](https://seaborn.pydata.org/index.html) and [Matplotlib](https://matplotlib.org/) libraries.
