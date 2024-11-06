@@ -18,7 +18,7 @@
 [![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/Purchase/PDF/brown?icon=instgrame)](https://www.sciencedirect.com/getaccess/pii/S095741742301182X/purchase)
 -->
 
-![ADAC Model](https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/ADAC.png)
+<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/ADAC.png?raw=true" width="60%">
 
 ## Table of Contents
 
