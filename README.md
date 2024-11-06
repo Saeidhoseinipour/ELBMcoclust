@@ -18,6 +18,8 @@
 [![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/Purchase/PDF/brown?icon=instgrame)](https://www.sciencedirect.com/getaccess/pii/S095741742301182X/purchase)
 -->
 
+![ADAC Model](https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/ADAC.png)
+
 ## Table of Contents
 
 <table>
@@ -47,8 +49,9 @@
 </table>
 
 
+<!--
 <img alt="Screenshot: 'README.md'" src="https://github.com/user-attachments/assets/92f7f27c-21e1-49c2-a116-a0180bdcd02e?raw=true" width="50%">
-
+-->
 
 # **`ELBMcoclust`** and **`SELBMcoclust`**
 
@@ -225,7 +228,6 @@ Please cite the following paper in your publication if you are using [**`ELBMcoc
     year=            {2024}
 } 
 ```
-![ADAC Model](https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/ADAC.png)
 
 <!--
 
