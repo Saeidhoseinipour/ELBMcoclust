@@ -41,10 +41,10 @@
       </ul>
     </td>
     <td>
-      <img src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/WC_classic3_three_color_3_3.svg" alt="Saeid Hoseinipour" style="width:250px; box-shadow: 5px 5px 15px rgba(0,0,0,0.3); transform: rotateY(10deg);">
+      <img src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/WC_classic3_three_color_3_3.svg" alt="A sparse exponential family latent block model for co-clustering, Saeid Hoseinipour" style="width:250px; box-shadow: 5px 5px 15px rgba(0,0,0,0.3); transform: rotateY(10deg);">
     </td>
     <td>
-      <img src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/bar_chart_words_classic3_V4_3_3.svg" alt="Saeid Hoseinipour" style="width:200px; box-shadow: 5px 5px 15px rgba(0,0,0,0.3); transform: rotateY(-10deg);">
+      <img src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/bar_chart_words_classic3_V4_3_3.svg" alt="A sparse exponential family latent block model for co-clustering, Saeid Hoseinipour" style="width:200px; box-shadow: 5px 5px 15px rgba(0,0,0,0.3); transform: rotateY(-10deg);">
     </td>
   </tr>
 </table>
@@ -154,41 +154,41 @@ confusion_matrix(true_labels, np.sort(ELBM.row_labels_))
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/CM_3_dataset.png?raw=true" width="100%">
 
 -  **Vertical Bar chart**
-<img alt="Text mining, Matrix factorization, Co-clustering, Saeid Hoseinipour" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/bar_chart_all_words_classic3_top_100.svg">
+<img alt="A sparse exponential family latent block model for co-clustering, Text mining, Matrix factorization, Co-clustering, Saeid Hoseinipour" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/bar_chart_all_words_classic3_top_100.svg">
 
 -  **Horizontal Bar chart**
 
-<img alt="Text mining, Matrix factorization, Co-clustering, Saeid Hoseinipour" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/bar_chart_all_words_classic3_top_1000.svg">
+<img alt="A sparse exponential family latent block model for co-clustering, Text mining, Matrix factorization, Co-clustering, Saeid Hoseinipour" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/bar_chart_all_words_classic3_top_1000.svg">
 
 
 - **Box plots**
-<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/Box_plots.png?raw=true" width="100%">
+<img alt="A sparse exponential family latent block model for co-clustering, Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/Box_plots.png?raw=true" width="100%">
 
 
 - **Scatter plots**
-<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/Scatter_plots_2.png?raw=true" width="100%">
+<img alt="A sparse exponential family latent block model for co-clustering, Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/Scatter_plots_2.png?raw=true" width="100%">
 
 - **Swarm plots**
-<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/swarm_plot.png?raw=true" width="100%">
+<img alt="A sparse exponential family latent block model for co-clustering, Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/swarm_plot.png?raw=true" width="100%">
 
 - **Reorganized 3*3 Word cloud of `PoissonSELBM` for Classic3**
 
 <!-- 
-<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Results/SELBM_Classic3.gif" width="45%">
+<img alt="A sparse exponential family latent block model for co-clustering, Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Results/SELBM_Classic3.gif" width="45%">
  --> 
 
 <!--
-<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/Wordcloud_Classic3_SELBM.png?raw=true" width="100%">
+<img alt="A sparse exponential family latent block model for co-clustering, Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/Wordcloud_Classic3_SELBM.png?raw=true" width="100%">
 -->
 
 <!--
 ![WC_ELBMcoclust](https://github.com/Saeidhoseinipour/ELBMcoclust/assets/43203342/5f33f01d-2236-4a47-9cf0-cf904fd047c3)
 -->
-<img alt="Word clouds top 60 words in classic3 dataset obtined by PoissonSELBM for co-clustering,  Latent Block Model, Text mining, Matrix factorization, Co-clustering, Saeid Hoseinipour, clustering" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/WC_classic3_three_color_3_3.svg">
+<img alt="A sparse exponential family latent block model for co-clustering, Word clouds top 60 words in classic3 dataset obtined by PoissonSELBM for co-clustering,  Latent Block Model, Text mining, Matrix factorization, Co-clustering, Saeid Hoseinipour, clustering" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/WC_classic3_three_color_3_3.svg">
 
 - **Reorganized 3*3 Bar Chart of `PoissonSELBM` for Classic3**
   
-<img alt="Bar charts top 50 words in classic3 dataset obtined by PoissonSELBM for co-clustering, Saeid Hoseinipour, text mining, clustering, Expoential family, Latent Block Model, Text mining, Matrix factorization, Co-clustering, Saeid Hoseinipour" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/bar_chart_words_classic3_V4_3_3.svg">
+<img alt="A sparse exponential family latent block model for co-clustering, Bar charts top 50 words in classic3 dataset obtined by PoissonSELBM for co-clustering, Saeid Hoseinipour, text mining, clustering, Expoential family, Latent Block Model, Text mining, Matrix factorization, Co-clustering, Saeid Hoseinipour" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/bar_chart_words_classic3_V4_3_3.svg">
 
 
 
