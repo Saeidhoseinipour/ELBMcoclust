@@ -14,8 +14,6 @@
 
 
 
-
-
 <!--
 [![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/Orginal/Paper/pink?icon=instgrame)](https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Models/coclust_SELBMcem.py)
 [![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/DOI:/1011.18363.32761/green?icon=instgrame)](https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Models/coclust_SELBMcem.py)
@@ -280,8 +278,6 @@ Please cite the following paper in your publication if you are using [**`ELBMcoc
 
 ## References
 [1] [Ailem, Melissa et al, Sparse Poisson latent block model for document clustering, *IEEE Transactions on Knowledge and Data Engineering* (2017a).](https://ieeexplore.ieee.org/abstract/document/7876732)
-
-
 
 [2] [Ailem, Melissa et al, Model-based co-clustering for the effective handling of sparse data, *Pattern Recognition* (2017b)](https://doi.org/10.1016/j.patcog.2017.06.005) 
 
