@@ -22,8 +22,6 @@
 -->
 
 
-
-
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/ADAC.png?raw=true" width="100%">
 
 ## Table of Contents
