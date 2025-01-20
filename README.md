@@ -177,14 +177,14 @@ confusion_matrix(true_labels, np.sort(ELBM.row_labels_))
 
 
 - **Box plots**
-<img alt="A sparse exponential family latent block model for co-clustering, Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/Box_plots.png?raw=true" width="100%">
+<img alt="A sparse exponential family latent block model for co-clustering, Screenshot: 'README.md', saeid hoseinipour" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/Box_plots.png?raw=true" width="100%">
 
 
 - **Scatter plots**
-<img alt="A sparse exponential family latent block model for co-clustering, Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/Scatter_plots_2.png?raw=true" width="100%">
+<img alt="A sparse exponential family latent block model for co-clustering, Screenshot: 'README.md', saeid hoseinipour" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/Scatter_plots_2.png?raw=true" width="100%">
 
 - **Swarm plots**
-<img alt="A sparse exponential family latent block model for co-clustering, Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/swarm_plot.png?raw=true" width="100%">
+<img alt="A sparse exponential family latent block model for co-clustering, Screenshot: 'README.md', saeid hoseinipour" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/swarm_plot.png?raw=true" width="100%">
 
 - **Reorganized 3*3 Word cloud of `PoissonSELBM` for Classic3**
 
@@ -282,9 +282,7 @@ Please cite the following paper in your publication if you are using [**`ELBMcoc
 
 [2] [Ailem, Melissa et al, Model-based co-clustering for the effective handling of sparse data, *Pattern Recognition* (2017b)](https://doi.org/10.1016/j.patcog.2017.06.005) 
 
-
 [3] [Govaert and Nadif, Clustering with block mixture models, *Pattern Recognition* (2013).](https://www.sciencedirect.com/science/article/abs/pii/S0031320302000742)
-
 
 [4] [Govaert and Nadif, Block clustering with Bernoulli mixture models: Comparison of different approaches, *Computational Statistics and Data Analysis* (2008).](https://www.sciencedirect.com/science/article/abs/pii/S0167947307003441)
 
