@@ -11,7 +11,6 @@
 [![](https://badgen.net/badge/x/mol/orange?icon=instgrame)](https://www.x-mol.com/paper/math/tag/106/journal/19252)
 [![](https://badgen.net/badge/Pee/ref/orange?icon=instgrame)](https://www.peeref.com/works/83810598)
 [![](https://badgen.net/badge/centre/borelli/orange?icon=instgrame)](https://centreborelli.ens-paris-saclay.fr/fr/publications/sparse-exponential-family-latent-block-model-co-clustering)
-
 [![](https://badgen.net/badge/HAL/science/orange?icon=instgrame)](https://mnhn.hal.science/ENS-PARIS-SACLAY/hal-04855166v1
 )
 
