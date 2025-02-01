@@ -240,7 +240,7 @@ Please cite the following paper in your publication if you are using [**`ELBMcoc
 
     
 ```bibtex
- @article{ELBMcoclust, 
+ @article{ELBMcoclust2024, 
     title=           {A Sparse Exponential Family Latent Block Model for Co-clustering}, 
     Journal=         {Advances in Data Analysis and Classification}
     authors=         {Saeid Hoseinipour, Mina Aminghafari, Adel Mohammadpour, Mohamed Nadif},
