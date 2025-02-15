@@ -35,7 +35,7 @@
 
 
 
-<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/ADAC.png?raw=true" width="100%">
+<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/ADAC.png?raw=true" width="96%">
 
 ## Table of Contents
 
