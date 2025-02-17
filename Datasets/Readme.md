@@ -15,6 +15,8 @@ freq_block_2 = SELBM.R.T@X_Classic3_sum_1@SELBM.C                               
 w = mydata_2['term_labels']                                                       # 4303  Words for WC plot 
 
 
+
+
 dic_word_block = {'Words': w.tolist(),
                   'Freq_cluster': freq_cluster.tolist(),
                   'Freq_row_cluster_1': freq_block[0,:],
