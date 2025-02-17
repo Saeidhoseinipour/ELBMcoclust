@@ -17,6 +17,8 @@ w = mydata_2['term_labels']                                                     
 
 
 
+
+
 dic_word_block = {'Words': w.tolist(),
                   'Freq_cluster': freq_cluster.tolist(),
                   'Freq_row_cluster_1': freq_block[0,:],
