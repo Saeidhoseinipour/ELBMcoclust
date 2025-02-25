@@ -29,8 +29,6 @@
 
 
 
-
-
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/ADAC.png?raw=true" width="96%">
 
 ## Table of Contents
@@ -185,6 +183,7 @@ confusion_matrix(true_labels, np.sort(ELBM.row_labels_))
 -  **Horizontal Bar chart**
 
 <img alt="A sparse exponential family latent block model for co-clustering, Text mining, Matrix factorization, Co-clustering, Saeid Hoseinipour" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/bar_chart_all_words_classic3_top_1000.svg">
+
 
 
 - **Box plots**
