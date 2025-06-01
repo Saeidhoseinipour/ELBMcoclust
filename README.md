@@ -126,7 +126,19 @@ The goal of the statistical approach is to analyze the behavior of the data by c
 \end{align*}
 ```
 
-
+\begin{align*}
+L^{\text{SELBM}}(\mathbf{r},\mathbf{c},\boldsymbol{\gamma})
+\propto{}&
+\sum_{k} r_{\cdot k}\,\log\pi_{k}
++ \sum_{h} c_{\cdot h}\,\log\rho_{h}
++ \sum_{k}
+\bigl[\mathbf{R}^\top\,(S_x\odot\hat{\boldsymbol\beta})\,\mathbf{C}\bigr]_{kk}\,
+\bigl(A(\alpha_{kk}) - A(\alpha)\bigr)\\
+&\quad
+- \sum_{k}
+\bigl[\mathbf{R}^\top\,(E_{mn}\odot\hat{\boldsymbol\beta})\,\mathbf{C}\bigr]_{kk}\,
+\bigl(F\bigl(A(\alpha_{kk})\bigr) - F\bigl(A(\alpha)\bigr)\bigr)\,.
+\end{align*}
 
 
 
