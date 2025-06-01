@@ -76,7 +76,6 @@
 
 
 
-
 # **`ELBMcoclust`** and **`SELBMcoclust`**
 
 Sparse and Non-Sparse Exponential Family Latent Block Model for Co-clustering
