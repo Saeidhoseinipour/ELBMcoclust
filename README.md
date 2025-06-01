@@ -104,7 +104,8 @@ The goal of the statistical approach is to analyze the behavior of the data by c
 ```
 -  **SELBM**
 ```math
-$$	L^{\text{SELBM}}(\mathbf{r},\mathbf{c},\boldsymbol{\gamma})
+\begin{align*}
+	L^{\text{SELBM}}(\mathbf{r},\mathbf{c},\boldsymbol{\gamma})
 	\propto&
 	\sum\limits_{k} r_{.k} \log\pi_{k} +	
 	\sum\limits_{h}  c_{.h}\log\rho_{h}
@@ -121,7 +122,8 @@ $$	L^{\text{SELBM}}(\mathbf{r},\mathbf{c},\boldsymbol{\gamma})
 	[\mathbf{R}^{\top}	(\mathbf{E}_{mn} \odot \hat{\boldsymbol{\beta}} )\mathbf{C}]_{kk} 
 	\left(
 	F(A(\alpha_{kk})) -F(A(\alpha)) 
-	\right).$$
+	\right).
+\end{align*}
 ```
 
 
