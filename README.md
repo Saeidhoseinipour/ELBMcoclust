@@ -313,3 +313,5 @@ Please cite the following paper in your publication if you are using [**`ELBMcoc
 [12]  [Hartigan, Direct clustering of a data matrix, *Journal of the American Statistical Association* (1972)](https://doi.org/10.1080/01621459.1972.1048121)
 
 [13] [Hoseinipour et al, Orthogonal parametric non-negative matrix tri-factorization with $\alpha$-Divergence for co-clustering, *Expert Systems with Applications* (2023).](https://doi.org/10.1016/j.eswa.2023.120680)
+
+[14] [Hoseinipour et al, Sparse Expoential Family Latent Block Model for Co-clustering (2023), Computational Statistics and Data Analysis (preprint).]()
