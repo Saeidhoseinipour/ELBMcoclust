@@ -15,7 +15,6 @@
 [![](https://badgen.net/badge/Semantic/scholar/orange?icon=instgrame)](https://www.semanticscholar.org/paper/A-sparse-exponential-family-latent-block-model-for-Hoseinipour-Aminghafari/76a9d53e0827d36eaa206e035c45d4d424894663)
 [![](https://badgen.net/badge/Colab/ws/orange?icon=instgrame)](https://colab.ws/articles/10.1007%2Fs11634-024-00608-3)
 [![](https://badgen.net/badge/OU/CI/orange?icon=instgrame)](https://ouci.dntb.gov.ua/en/works/42rEnmW4/)
-[![](https://badgen.net/badge/Ar/Xive/orange?icon=instgrame)]()
 
 
 
