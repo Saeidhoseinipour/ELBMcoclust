@@ -251,14 +251,15 @@ Please cite the following paper in your publication if you are using [**`ELBMcoc
 
     
 ```bibtex
- @article{ELBMcoclust2024, 
-    title=           {A Sparse Exponential Family Latent Block Model for Co-clustering}, 
-    Journal=         {Advances in Data Analysis and Classification}
-    authors=         {Saeid Hoseinipour, Mina Aminghafari, Adel Mohammadpour, Mohamed Nadif},
-    pages=           {1-37},
-    DOI=             {https://doi.org/10.1007/s11634-024-00608-3}    
-    year=            {2024}
-} 
+@article{Hoseinipour2024SparseELBM,
+  title   = {A Sparse Exponential Family Latent Block Model for Co-clustering},
+  author  = {Hoseinipour, Saeid and Aminghafari, Mina and Mohammadpour, Adel and Nadif, Mohamed},
+  journal = {Advances in Data Analysis and Classification},
+  pages   = {1--37},
+  year    = {2024},
+  doi     = {10.1007/s11634-024-00608-3},
+  url     = {https://doi.org/10.1007/s11634-024-00608-3}
+}
 ```
 
 
