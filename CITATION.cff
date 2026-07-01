@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+title: "ELBMcoclust: Sparse Exponential Family Latent Block Model for Co-clustering"
+message: "If you use this software, please cite the associated paper."
+type: software
+authors:
+  - family-names: Hoseinipour
+    given-names: Saeid
+  - family-names: Aminghafari
+    given-names: Mina
+  - family-names: Mohammadpour
+    given-names: Adel
+  - family-names: Nadif
+    given-names: Mohamed
+repository-code: "https://github.com/Saeidhoseinipour/ELBMcoclust"
+url: "https://github.com/Saeidhoseinipour/ELBMcoclust"
+keywords:
+  - co-clustering
+  - latent block model
+  - exponential family
+  - sparse latent block model
+  - ELBM
+  - SELBM
+  - text mining
+  - machine learning
+license: MIT
+preferred-citation:
+  type: article
+  title: "A Sparse Exponential Family Latent Block Model for Co-clustering"
+  authors:
+    - family-names: Hoseinipour
+      given-names: Saeid
+    - family-names: Aminghafari
+      given-names: Mina
+    - family-names: Mohammadpour
+      given-names: Adel
+    - family-names: Nadif
+      given-names: Mohamed
+  journal: "Advances in Data Analysis and Classification"
+  year: 2024
+  doi: "10.1007/s11634-024-00608-3"
