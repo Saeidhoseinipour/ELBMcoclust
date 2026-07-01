@@ -16,7 +16,7 @@
 [![](https://badgen.net/badge/Colab/ws/orange?icon=instgrame)](https://colab.ws/articles/10.1007%2Fs11634-024-00608-3)
 [![](https://badgen.net/badge/OU/CI/orange?icon=instgrame)](https://ouci.dntb.gov.ua/en/works/42rEnmW4/)
 [![](https://badgen.net/badge/Ar/Xive/orange?icon=instgrame)]()
-
+[![](https://badgen.net/badge/Zenodo/DOI/orange?icon=instgrame)](https://doi.org/10.5281/zenodo.21093419)
 
 
 
