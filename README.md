@@ -18,7 +18,7 @@
 [![](https://badgen.net/badge/Ar/Xive/orange?icon=instgrame)]()
 [![](https://badgen.net/badge/Zenodo/DOI/orange?icon=instgrame)](https://doi.org/10.5281/zenodo.21093419)
 
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21093419.svg)](https://doi.org/10.5281/zenodo.21093419)
 
 
 
