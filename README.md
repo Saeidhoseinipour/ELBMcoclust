@@ -19,45 +19,6 @@
 [![](https://badgen.net/badge/Zenodo/DOI/orange?icon=instgrame)](https://doi.org/10.5281/zenodo.21093419)
 
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "SoftwareSourceCode",
-  "name": "ELBMcoclust",
-  "description": "Official implementation of A Sparse Exponential Family Latent Block Model for Co-clustering.",
-  "codeRepository": "https://github.com/Saeidhoseinipour/ELBMcoclust",
-  "programmingLanguage": "Python",
-  "license": "https://opensource.org/licenses/MIT",
-  "citation": "https://doi.org/10.1007/s11634-024-00608-3",
-  "identifier": "https://doi.org/10.5281/zenodo.XXXXXXX",
-  "author": [
-    {
-      "@type": "Person",
-      "name": "Saeid Hoseinipour"
-    },
-    {
-      "@type": "Person",
-      "name": "Mina Aminghafari"
-    },
-    {
-      "@type": "Person",
-      "name": "Adel Mohammadpour"
-    },
-    {
-      "@type": "Person",
-      "name": "Mohamed Nadif"
-    }
-  ],
-  "keywords": [
-    "ELBM",
-    "SELBM",
-    "co-clustering",
-    "latent block model",
-    "exponential family",
-    "sparse co-clustering"
-  ]
-}
-</script>
 
 <!--
 [![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/Orginal/Paper/pink?icon=instgrame)](https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Models/coclust_SELBMcem.py)
