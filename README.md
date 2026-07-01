@@ -18,7 +18,6 @@
 [![](https://badgen.net/badge/Ar/Xive/orange?icon=instgrame)]()
 [![](https://badgen.net/badge/Zenodo/DOI/orange?icon=instgrame)](https://doi.org/10.5281/zenodo.21093419)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21093419.svg)](https://doi.org/10.5281/zenodo.21093419)
 
 
 
@@ -86,7 +85,8 @@ DOI: https://doi.org/10.1007/s11634-024-00608-3
 
 ## Links
 
-- Paper: https://doi.org/10.1007/s11634-024-00608-3
+- Paper DOI: https://doi.org/10.1007/s11634-024-00608-3
+- Code DOI: https://doi.org/10.5281/zenodo.21093419
 - Official GitHub repository: https://github.com/Saeidhoseinipour/ELBMcoclust
 - Supplementary material: https://github.com/Saeidhoseinipour/EM-typecoclust/tree/main
 - Datasets: https://github.com/Saeidhoseinipour/ELBMcoclust/tree/main/Datasets
