@@ -78,7 +78,8 @@ Official implementation of the paper:
 
 **A Sparse Exponential Family Latent Block Model for Co-clustering**
 
-Saeid Hoseinipour, Mina Aminghafari, Adel Mohammadpour, Mohamed Nadif  
+Saeid Hoseinipour, Mina Aminghafari, Adel Mohammadpour, Mohamed Nadif
+  
 Published in **Advances in Data Analysis and Classification**, 2024  
 
 DOI: https://doi.org/10.1007/s11634-024-00608-3  
