@@ -28,7 +28,26 @@
 -->
 
 
+# **`ELBMcoclust`** and **`SELBMcoclust`**
+Official implementation of the paper:
 
+**A Sparse Exponential Family Latent Block Model for Co-clustering**
+
+Saeid Hoseinipour, Mina Aminghafari, Adel Mohammadpour, Mohamed Nadif
+  
+Published in **Advances in Data Analysis and Classification**, 2024. 
+
+DOI: https://doi.org/10.1007/s11634-024-00608-3  
+Code repository: https://github.com/Saeidhoseinipour/ELBMcoclust
+
+## Links
+
+- Paper DOI: https://doi.org/10.1007/s11634-024-00608-3
+- Code DOI: https://doi.org/10.5281/zenodo.21093419
+- Official GitHub repository: https://github.com/Saeidhoseinipour/ELBMcoclust
+- Supplementary material: https://github.com/Saeidhoseinipour/EM-typecoclust/tree/main
+- Datasets: https://github.com/Saeidhoseinipour/ELBMcoclust/tree/main/Datasets
+- Visualizations: https://github.com/Saeidhoseinipour/ELBMcoclust/tree/main/Images
 
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/ADAC.png?raw=true" width="96%">
 
@@ -69,30 +88,6 @@
 <!--
 <img alt="Screenshot: 'README.md'" src="https://github.com/user-attachments/assets/92f7f27c-21e1-49c2-a116-a0180bdcd02e?raw=true" width="50%">
 -->
-
-
-
-
-# **`ELBMcoclust`** and **`SELBMcoclust`**
-Official implementation of the paper:
-
-**A Sparse Exponential Family Latent Block Model for Co-clustering**
-
-Saeid Hoseinipour, Mina Aminghafari, Adel Mohammadpour, Mohamed Nadif
-  
-Published in **Advances in Data Analysis and Classification**, 2024. 
-
-DOI: https://doi.org/10.1007/s11634-024-00608-3  
-Code repository: https://github.com/Saeidhoseinipour/ELBMcoclust
-
-## Links
-
-- Paper DOI: https://doi.org/10.1007/s11634-024-00608-3
-- Code DOI: https://doi.org/10.5281/zenodo.21093419
-- Official GitHub repository: https://github.com/Saeidhoseinipour/ELBMcoclust
-- Supplementary material: https://github.com/Saeidhoseinipour/EM-typecoclust/tree/main
-- Datasets: https://github.com/Saeidhoseinipour/ELBMcoclust/tree/main/Datasets
-- Visualizations: https://github.com/Saeidhoseinipour/ELBMcoclust/tree/main/Images
 
 
 
