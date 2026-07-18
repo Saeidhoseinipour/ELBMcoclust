@@ -42,6 +42,8 @@ Published in **Advances in Data Analysis and Classification**, 2024.
 
 DOI: https://doi.org/10.1007/s11634-024-00608-3  
 Code repository: https://github.com/Saeidhoseinipour/ELBMcoclust
+Download: [![](https://badgen.net/badge/Orginal/Paper/orange?icon=instgrame)](https://order.springer.com/public/cart?message=AddToCartSuccess)
+Call for paper: saeidhoseinipour9@gmail.com
 
 ## Links
 
