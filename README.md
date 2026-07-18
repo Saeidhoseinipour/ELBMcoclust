@@ -35,7 +35,7 @@
 # **`ELBMcoclust`** and **`SELBMcoclust`**
 Official implementation of the paper:
 
-**A Sparse Exponential Family Latent Block Model for Co-clustering**
+**`A Sparse Exponential Family Latent Block Model for Co-clustering`**
 
 Saeid Hoseinipour, Mina Aminghafari, Adel Mohammadpour, Mohamed Nadif
   
