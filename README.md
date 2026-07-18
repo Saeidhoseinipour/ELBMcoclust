@@ -44,7 +44,7 @@ Published in **Advances in Data Analysis and Classification**, 2024.
 DOI: https://doi.org/10.1007/s11634-024-00608-3  
 Code repository: https://github.com/Saeidhoseinipour/ELBMcoclust  
 Download: [![](https://badgen.net/badge/Orginal/Paper/orange?icon=instgrame)](https://link.springer.com/article/10.1007/s11634-024-00608-3#rightslink)  
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 4px;"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg> **Saeid Hoseinipour** — [saeidhoseinipour9@gmail.com](mailto:saeidhoseinipour9@gmail.com)
+<img src="https://raw.githubusercontent.com/Saeidhoseinipour/ELBMcoclust/main/Images/selfhst--gmail.svg" width="16" height="16" alt="email" style="vertical-align: middle; margin-right: 4px;"> **Saeid Hoseinipour** — [saeidhoseinipour9@gmail.com](mailto:saeidhoseinipour9@gmail.com)
 
 ## Links
 
