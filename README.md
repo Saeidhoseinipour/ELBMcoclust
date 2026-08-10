@@ -18,9 +18,7 @@
 [![](https://badgen.net/badge/Ar/Xive/orange?icon=instgrame)]()
 [![](https://badgen.net/badge/Zenodo/DOI/orange?icon=instgrame)](https://doi.org/10.5281/zenodo.21093419)
 [![https://github.com/Saeidhoseinipour/ELBMcoclust](https://badgen.net/badge/Cite/paper/orange?icon=instgrame)](https://github.com/Saeidhoseinipour/ELBMcoclust#cite)
-
-
-
+[![https://github.com/Saeidhoseinipour/ELBMcoclust](https://badgen.net/badge/Podcast/AI/orange?icon=instgrame)](https://github.com/Saeidhoseinipour/ELBMcoclust#podcast)
 
 
 
@@ -320,7 +318,8 @@ Please cite the following paper in your publication if you are using [**`ELBMcoc
 
 
 
-
+<a id="podcast"></a>
+## 🎙 Podcast NotebookLM
 <h3 align="center">🎙 Podcast of orginal paper</h3>
 
 <p align="center"><em>An AI-generated podcast (NotebookLM) based on the paper in this repository</em></p>
