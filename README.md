@@ -17,6 +17,7 @@
 [![](https://badgen.net/badge/OU/CI/orange?icon=instgrame)](https://ouci.dntb.gov.ua/en/works/42rEnmW4/)
 [![](https://badgen.net/badge/Ar/Xive/orange?icon=instgrame)]()
 [![](https://badgen.net/badge/Zenodo/DOI/orange?icon=instgrame)](https://doi.org/10.5281/zenodo.21093419)
+[![https://github.com/Saeidhoseinipour/ELBMcoclust](https://badgen.net/badge/Cite/paper/orange?icon=instgrame)](https://github.com/Saeidhoseinipour/ELBMcoclust#cite)
 
 
 
