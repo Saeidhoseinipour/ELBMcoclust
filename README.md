@@ -345,9 +345,9 @@ Please cite the following paper in your publication if you are using [**`ELBMcoc
 
 
 ## References
-[1] [Ailem, Melissa et al, Sparse Poisson latent block model for document clustering, *IEEE Transactions on Knowledge and Data Engineering* (2017a).](https://ieeexplore.ieee.org/abstract/document/7876732)
+[1] [Ailem, Melissa et al, Sparse Poisson latent block model for document clustering, **IEEE Transactions on Knowledge and Data Engineering** (2017a).](https://ieeexplore.ieee.org/abstract/document/7876732)
 
-[2] [Ailem, Melissa et al, Model-based co-clustering for the effective handling of sparse data, *Pattern Recognition* (2017b)](https://doi.org/10.1016/j.patcog.2017.06.005) 
+[2] [Ailem, Melissa et al, Model-based co-clustering for the effective handling of sparse data, *Pattern Recognition* (2017b).](https://doi.org/10.1016/j.patcog.2017.06.005) 
 
 [3] [Govaert and Nadif, Clustering with block mixture models, *Pattern Recognition* (2013).](https://www.sciencedirect.com/science/article/abs/pii/S0031320302000742)
 
